@@ -1,0 +1,5040 @@
+[
+  {
+    "id": "MOCK_BASE_0001",
+    "enterprise_id": "MOCK_ENTERPRISE_0001",
+    "name": "长春一汽嘉信热处理科技有限公司",
+    "location_type": "校外",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0001"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0002"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0002",
+        "major_id": "MOCK_MAJOR_0001",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 140
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0002",
+    "enterprise_id": "MOCK_ENTERPRISE_0002",
+    "name": "长春奥普光电技术股份有限公司",
+    "location_type": "校外",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0001",
+      "MOCK_MAJOR_0002"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0003",
+      "BASE_7_11_0006"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0003",
+        "major_id": "MOCK_MAJOR_0001",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 140
+      },
+      {
+        "source_id": "BASE_7_11_0006",
+        "major_id": "MOCK_MAJOR_0002",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 70
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0003",
+    "enterprise_id": "MOCK_ENTERPRISE_0003",
+    "name": "吉林省新铝涂装饰材料有限公司",
+    "location_type": "校外",
+    "established_year": "2024",
+    "major_ids": [
+      "MOCK_MAJOR_0001"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0004"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0004",
+        "major_id": "MOCK_MAJOR_0001",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 140
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0004",
+    "enterprise_id": "MOCK_ENTERPRISE_0004",
+    "name": "吉林省红星轨道车辆装备有限公司",
+    "location_type": "校外",
+    "established_year": "2024",
+    "major_ids": [
+      "MOCK_MAJOR_0001"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0005"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0005",
+        "major_id": "MOCK_MAJOR_0001",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 140
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0005",
+    "enterprise_id": "MOCK_ENTERPRISE_0005",
+    "name": "中盈志合吉林科技有限公司",
+    "location_type": "校外",
+    "established_year": "2015",
+    "major_ids": [
+      "MOCK_MAJOR_0002"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0007"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0007",
+        "major_id": "MOCK_MAJOR_0002",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 70
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0006",
+    "enterprise_id": "MOCK_ENTERPRISE_0006",
+    "name": "长春富维安道拓汽车饰件系统有限公司",
+    "location_type": "校外",
+    "established_year": "2001",
+    "major_ids": [
+      "MOCK_MAJOR_0002"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0008"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0008",
+        "major_id": "MOCK_MAJOR_0002",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 105
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0007",
+    "enterprise_id": "MOCK_ENTERPRISE_0007",
+    "name": "红旗繁荣工厂",
+    "location_type": "校外",
+    "established_year": "2021",
+    "major_ids": [
+      "MOCK_MAJOR_0002"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0009"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0009",
+        "major_id": "MOCK_MAJOR_0002",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 105
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0008",
+    "enterprise_id": "MOCK_ENTERPRISE_0008",
+    "name": "吉林盛大电缆有限公司",
+    "location_type": "校外",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0003"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0010"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0010",
+        "major_id": "MOCK_MAJOR_0003",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 131
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0009",
+    "enterprise_id": "MOCK_ENTERPRISE_0009",
+    "name": "长玉特陶新材料技术股份有限公司",
+    "location_type": "校外",
+    "established_year": "2022",
+    "major_ids": [
+      "MOCK_MAJOR_0003"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0011"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0011",
+        "major_id": "MOCK_MAJOR_0003",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 131
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0010",
+    "enterprise_id": "MOCK_ENTERPRISE_0010",
+    "name": "吉林建龙钢铁有限责任公司",
+    "location_type": "校外",
+    "established_year": "2022",
+    "major_ids": [
+      "MOCK_MAJOR_0003"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0012"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0012",
+        "major_id": "MOCK_MAJOR_0003",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 99
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0011",
+    "enterprise_id": "MOCK_ENTERPRISE_0011",
+    "name": "天津钢管制造有限公司",
+    "location_type": "校外",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0003"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0013"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0013",
+        "major_id": "MOCK_MAJOR_0003",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 30
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0012",
+    "enterprise_id": "MOCK_ENTERPRISE_0012",
+    "name": "卡斯马汽车系统(上海)有限公司长春公司",
+    "location_type": "校外",
+    "established_year": "2024",
+    "major_ids": [
+      "MOCK_MAJOR_0003"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0014"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0014",
+        "major_id": "MOCK_MAJOR_0003",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 131
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0013",
+    "enterprise_id": "MOCK_ENTERPRISE_0013",
+    "name": "东睦富奥新材料有限公司",
+    "location_type": "校外",
+    "established_year": "2024",
+    "major_ids": [
+      "MOCK_MAJOR_0003"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0015"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0015",
+        "major_id": "MOCK_MAJOR_0003",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 131
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0014",
+    "enterprise_id": "MOCK_ENTERPRISE_0014",
+    "name": "富奥股份公司散热器分公司",
+    "location_type": "校外",
+    "established_year": "2018",
+    "major_ids": [
+      "MOCK_MAJOR_0003"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0016"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0016",
+        "major_id": "MOCK_MAJOR_0003",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 131
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0015",
+    "enterprise_id": "MOCK_ENTERPRISE_0015",
+    "name": "一汽红旗繁荣工厂",
+    "location_type": "校外",
+    "established_year": "2022",
+    "major_ids": [
+      "MOCK_MAJOR_0003"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0017"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0017",
+        "major_id": "MOCK_MAJOR_0003",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 131
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0016",
+    "enterprise_id": "MOCK_ENTERPRISE_0016",
+    "name": "长春文教锅炉集团",
+    "location_type": "校外",
+    "established_year": "2022",
+    "major_ids": [
+      "MOCK_MAJOR_0003"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0018"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0018",
+        "major_id": "MOCK_MAJOR_0003",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 99
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0017",
+    "enterprise_id": "MOCK_ENTERPRISE_0017",
+    "name": "长春城际轨道客车装备有限公司",
+    "location_type": "校外",
+    "established_year": "2022",
+    "major_ids": [
+      "MOCK_MAJOR_0003"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0019"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0019",
+        "major_id": "MOCK_MAJOR_0003",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 179
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0018",
+    "enterprise_id": "MOCK_ENTERPRISE_0018",
+    "name": "弗吉亚排气（长春）有限公司",
+    "location_type": "校外",
+    "established_year": "2022",
+    "major_ids": [
+      "MOCK_MAJOR_0003"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0020"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0020",
+        "major_id": "MOCK_MAJOR_0003",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 99
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0019",
+    "enterprise_id": "MOCK_ENTERPRISE_0019",
+    "name": "一汽解放公司",
+    "location_type": "校外",
+    "established_year": "2022",
+    "major_ids": [
+      "MOCK_MAJOR_0003"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0021"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0021",
+        "major_id": "MOCK_MAJOR_0003",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 179
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0020",
+    "enterprise_id": "MOCK_ENTERPRISE_0020",
+    "name": "长春工业大学公共管理学院、长春新区人民检察院校检合作人才培养实践基地",
+    "location_type": "校内",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0004"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0022"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0022",
+        "major_id": "MOCK_MAJOR_0004",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 85
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0021",
+    "enterprise_id": "MOCK_ENTERPRISE_0021",
+    "name": "锦湖轮胎",
+    "location_type": "校外",
+    "established_year": "2024",
+    "major_ids": [
+      "MOCK_MAJOR_0005"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0023"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0023",
+        "major_id": "MOCK_MAJOR_0005",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 155
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0022",
+    "enterprise_id": "MOCK_ENTERPRISE_0022",
+    "name": "路通轨道集团",
+    "location_type": "校外",
+    "established_year": "2018",
+    "major_ids": [
+      "MOCK_MAJOR_0005"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0024"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0024",
+        "major_id": "MOCK_MAJOR_0005",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 120
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0023",
+    "enterprise_id": "MOCK_ENTERPRISE_0023",
+    "name": "派格汽车塑料技术有限公司",
+    "location_type": "校外",
+    "established_year": "2015",
+    "major_ids": [
+      "MOCK_MAJOR_0005"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0025"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0025",
+        "major_id": "MOCK_MAJOR_0005",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 110
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0024",
+    "enterprise_id": "MOCK_ENTERPRISE_0024",
+    "name": "英海节能科技有限公司",
+    "location_type": "校外",
+    "established_year": "2024",
+    "major_ids": [
+      "MOCK_MAJOR_0005"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0026"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0026",
+        "major_id": "MOCK_MAJOR_0005",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 155
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0025",
+    "enterprise_id": "MOCK_ENTERPRISE_0025",
+    "name": "三化实业有限责任公司",
+    "location_type": "校外",
+    "established_year": "2020",
+    "major_ids": [
+      "MOCK_MAJOR_0005",
+      "MOCK_MAJOR_0009"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0027",
+      "BASE_7_11_0041"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0027",
+        "major_id": "MOCK_MAJOR_0005",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 120
+      },
+      {
+        "source_id": "BASE_7_11_0041",
+        "major_id": "MOCK_MAJOR_0009",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 23
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0026",
+    "enterprise_id": "MOCK_ENTERPRISE_0026",
+    "name": "金启科技发展有限公司",
+    "location_type": "校外",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0005"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0028"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0028",
+        "major_id": "MOCK_MAJOR_0005",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 120
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0027",
+    "enterprise_id": "MOCK_ENTERPRISE_0027",
+    "name": "一汽大众",
+    "location_type": "校外",
+    "established_year": "2024",
+    "major_ids": [
+      "MOCK_MAJOR_0005"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0029"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0029",
+        "major_id": "MOCK_MAJOR_0005",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 155
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0028",
+    "enterprise_id": "MOCK_ENTERPRISE_0028",
+    "name": "伟巴斯特车顶系统有限",
+    "location_type": "校外",
+    "established_year": "2020",
+    "major_ids": [
+      "MOCK_MAJOR_0005"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0030"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0030",
+        "major_id": "MOCK_MAJOR_0005",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 120
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0029",
+    "enterprise_id": "MOCK_ENTERPRISE_0029",
+    "name": "上海金力泰化工股份有限公司",
+    "location_type": "校外",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0005",
+      "MOCK_MAJOR_0009"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0031",
+      "BASE_7_11_0042"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0031",
+        "major_id": "MOCK_MAJOR_0005",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 120
+      },
+      {
+        "source_id": "BASE_7_11_0042",
+        "major_id": "MOCK_MAJOR_0009",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 23
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0030",
+    "enterprise_id": "MOCK_ENTERPRISE_0030",
+    "name": "吉林工业职业技术学院",
+    "location_type": "校外",
+    "established_year": "2016",
+    "major_ids": [
+      "MOCK_MAJOR_0006"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0032"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0032",
+        "major_id": "MOCK_MAJOR_0006",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "是",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 106
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0031",
+    "enterprise_id": "MOCK_ENTERPRISE_0031",
+    "name": "吉林省石油化工设计研究院",
+    "location_type": "校外",
+    "established_year": "2019",
+    "major_ids": [
+      "MOCK_MAJOR_0006"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0033"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0033",
+        "major_id": "MOCK_MAJOR_0006",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 117
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0032",
+    "enterprise_id": "MOCK_ENTERPRISE_0032",
+    "name": "吉林省蓝浦浩业科技有限公司",
+    "location_type": "校外",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0007"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0034"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0034",
+        "major_id": "MOCK_MAJOR_0007",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 33
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0033",
+    "enterprise_id": "MOCK_ENTERPRISE_0033",
+    "name": "吉林省国大生物工程有限公司",
+    "location_type": "校外",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0007",
+      "MOCK_MAJOR_0010"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0035",
+      "BASE_7_11_0044"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0035",
+        "major_id": "MOCK_MAJOR_0007",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 35
+      },
+      {
+        "source_id": "BASE_7_11_0044",
+        "major_id": "MOCK_MAJOR_0010",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 36
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0034",
+    "enterprise_id": "MOCK_ENTERPRISE_0034",
+    "name": "长春市第一净水厂",
+    "location_type": "校外",
+    "established_year": "2020",
+    "major_ids": [
+      "MOCK_MAJOR_0008"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0036"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0036",
+        "major_id": "MOCK_MAJOR_0008",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 52
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0035",
+    "enterprise_id": "MOCK_ENTERPRISE_0035",
+    "name": "北郊污水处理厂",
+    "location_type": "校外",
+    "established_year": "2020",
+    "major_ids": [
+      "MOCK_MAJOR_0008"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0037"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0037",
+        "major_id": "MOCK_MAJOR_0008",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 52
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0036",
+    "enterprise_id": "MOCK_ENTERPRISE_0036",
+    "name": "长春三合废弃电器电子产品回收处置有限公司",
+    "location_type": "校外",
+    "established_year": "2024",
+    "major_ids": [
+      "MOCK_MAJOR_0008"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0038"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0038",
+        "major_id": "MOCK_MAJOR_0008",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 52
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0037",
+    "enterprise_id": "MOCK_ENTERPRISE_0037",
+    "name": "吉林省鑫祥有限责任公司",
+    "location_type": "校外",
+    "established_year": "2024",
+    "major_ids": [
+      "MOCK_MAJOR_0008"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0039"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0039",
+        "major_id": "MOCK_MAJOR_0008",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 70
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0038",
+    "enterprise_id": "MOCK_ENTERPRISE_0038",
+    "name": "吉林省华航环境检测有限公司",
+    "location_type": "校外",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0008"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0040"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0040",
+        "major_id": "MOCK_MAJOR_0008",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 70
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0039",
+    "enterprise_id": "MOCK_ENTERPRISE_0039",
+    "name": "吉林省西点药业科技发展股份有限公司",
+    "location_type": "校外",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0010"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0043"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0043",
+        "major_id": "MOCK_MAJOR_0010",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 36
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0040",
+    "enterprise_id": "MOCK_ENTERPRISE_0040",
+    "name": "吉林省奇健生物技术有限公司",
+    "location_type": "校外",
+    "established_year": "2025",
+    "major_ids": [
+      "MOCK_MAJOR_0010"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0045"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0045",
+        "major_id": "MOCK_MAJOR_0010",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 0
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0041",
+    "enterprise_id": "MOCK_ENTERPRISE_0041",
+    "name": "吉林省国药一心制药有限公司",
+    "location_type": "校外",
+    "established_year": "2020",
+    "major_ids": [
+      "MOCK_MAJOR_0010"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0046"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0046",
+        "major_id": "MOCK_MAJOR_0010",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 34
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0042",
+    "enterprise_id": "MOCK_ENTERPRISE_0042",
+    "name": "吉林省质量监督检验院",
+    "location_type": "校外",
+    "established_year": "2025",
+    "major_ids": [
+      "MOCK_MAJOR_0010"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0047"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0047",
+        "major_id": "MOCK_MAJOR_0010",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 0
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0043",
+    "enterprise_id": "MOCK_ENTERPRISE_0043",
+    "name": "长春天新合成材料有限公司",
+    "location_type": "校外",
+    "established_year": "2025",
+    "major_ids": [
+      "MOCK_MAJOR_0011",
+      "MOCK_MAJOR_0012"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0048",
+      "BASE_7_11_0051"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0048",
+        "major_id": "MOCK_MAJOR_0011",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 68
+      },
+      {
+        "source_id": "BASE_7_11_0051",
+        "major_id": "MOCK_MAJOR_0012",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 74
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0044",
+    "enterprise_id": "MOCK_ENTERPRISE_0044",
+    "name": "吉林省产品质量监督检验院",
+    "location_type": "校外",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0011",
+      "MOCK_MAJOR_0012",
+      "MOCK_MAJOR_0014"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0049",
+      "BASE_7_11_0052",
+      "BASE_7_11_0057"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0049",
+        "major_id": "MOCK_MAJOR_0011",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 68
+      },
+      {
+        "source_id": "BASE_7_11_0052",
+        "major_id": "MOCK_MAJOR_0012",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 74
+      },
+      {
+        "source_id": "BASE_7_11_0057",
+        "major_id": "MOCK_MAJOR_0014",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 36
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0045",
+    "enterprise_id": "MOCK_ENTERPRISE_0045",
+    "name": "吉原生物科技有限公司",
+    "location_type": "校外",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0011",
+      "MOCK_MAJOR_0012"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0050",
+      "BASE_7_11_0053"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0050",
+        "major_id": "MOCK_MAJOR_0011",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 68
+      },
+      {
+        "source_id": "BASE_7_11_0053",
+        "major_id": "MOCK_MAJOR_0012",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 74
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0046",
+    "enterprise_id": "MOCK_ENTERPRISE_0046",
+    "name": "长春积德泉酿酒实业集团",
+    "location_type": "校外",
+    "established_year": "2021",
+    "major_ids": [
+      "MOCK_MAJOR_0013"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0054"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0054",
+        "major_id": "MOCK_MAJOR_0013",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 80
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0047",
+    "enterprise_id": "MOCK_ENTERPRISE_0047",
+    "name": "吉林省金鹿药业有限公司",
+    "location_type": "校外",
+    "established_year": "2018",
+    "major_ids": [
+      "MOCK_MAJOR_0013"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0055"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0055",
+        "major_id": "MOCK_MAJOR_0013",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 80
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0048",
+    "enterprise_id": "MOCK_ENTERPRISE_0048",
+    "name": "长春金荷药业有限公司",
+    "location_type": "校外",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0013"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0056"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0056",
+        "major_id": "MOCK_MAJOR_0013",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 80
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0049",
+    "enterprise_id": "MOCK_ENTERPRISE_0049",
+    "name": "吉林省阿满食品有限公司",
+    "location_type": "校外",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0014"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0058"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0058",
+        "major_id": "MOCK_MAJOR_0014",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 40
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0050",
+    "enterprise_id": "MOCK_ENTERPRISE_0050",
+    "name": "富生（吉林省）投资管理集团有限公司",
+    "location_type": "校外",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0014"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0059"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0059",
+        "major_id": "MOCK_MAJOR_0014",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 40
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0051",
+    "enterprise_id": "MOCK_ENTERPRISE_0051",
+    "name": "一汽丰田发动机（长春）有限公司",
+    "location_type": "校外",
+    "established_year": "2011",
+    "major_ids": [
+      "MOCK_MAJOR_0015",
+      "MOCK_MAJOR_0016",
+      "MOCK_MAJOR_0017",
+      "MOCK_MAJOR_0018",
+      "MOCK_MAJOR_0019",
+      "MOCK_MAJOR_0020",
+      "MOCK_MAJOR_0036",
+      "MOCK_MAJOR_0037"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0060",
+      "BASE_7_11_0063",
+      "BASE_7_11_0067",
+      "BASE_7_11_0070",
+      "BASE_7_11_0076",
+      "BASE_7_11_0079",
+      "BASE_7_11_0133",
+      "BASE_7_11_0136"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0060",
+        "major_id": "MOCK_MAJOR_0015",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 32
+      },
+      {
+        "source_id": "BASE_7_11_0063",
+        "major_id": "MOCK_MAJOR_0016",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 30
+      },
+      {
+        "source_id": "BASE_7_11_0067",
+        "major_id": "MOCK_MAJOR_0017",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 39
+      },
+      {
+        "source_id": "BASE_7_11_0070",
+        "major_id": "MOCK_MAJOR_0018",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 71
+      },
+      {
+        "source_id": "BASE_7_11_0076",
+        "major_id": "MOCK_MAJOR_0019",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 137
+      },
+      {
+        "source_id": "BASE_7_11_0079",
+        "major_id": "MOCK_MAJOR_0020",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 38
+      },
+      {
+        "source_id": "BASE_7_11_0133",
+        "major_id": "MOCK_MAJOR_0036",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 140
+      },
+      {
+        "source_id": "BASE_7_11_0136",
+        "major_id": "MOCK_MAJOR_0037",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 95
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0052",
+    "enterprise_id": "MOCK_ENTERPRISE_0052",
+    "name": "长春泰盟机械制造股份有限公司",
+    "location_type": "校外",
+    "established_year": "2024",
+    "major_ids": [
+      "MOCK_MAJOR_0015",
+      "MOCK_MAJOR_0016",
+      "MOCK_MAJOR_0017",
+      "MOCK_MAJOR_0018",
+      "MOCK_MAJOR_0019",
+      "MOCK_MAJOR_0020",
+      "MOCK_MAJOR_0036",
+      "MOCK_MAJOR_0037"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0061",
+      "BASE_7_11_0064",
+      "BASE_7_11_0068",
+      "BASE_7_11_0071",
+      "BASE_7_11_0077",
+      "BASE_7_11_0080",
+      "BASE_7_11_0134",
+      "BASE_7_11_0137"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0061",
+        "major_id": "MOCK_MAJOR_0015",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 32
+      },
+      {
+        "source_id": "BASE_7_11_0064",
+        "major_id": "MOCK_MAJOR_0016",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 30
+      },
+      {
+        "source_id": "BASE_7_11_0068",
+        "major_id": "MOCK_MAJOR_0017",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 39
+      },
+      {
+        "source_id": "BASE_7_11_0071",
+        "major_id": "MOCK_MAJOR_0018",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 71
+      },
+      {
+        "source_id": "BASE_7_11_0077",
+        "major_id": "MOCK_MAJOR_0019",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 137
+      },
+      {
+        "source_id": "BASE_7_11_0080",
+        "major_id": "MOCK_MAJOR_0020",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 38
+      },
+      {
+        "source_id": "BASE_7_11_0134",
+        "major_id": "MOCK_MAJOR_0036",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 140
+      },
+      {
+        "source_id": "BASE_7_11_0137",
+        "major_id": "MOCK_MAJOR_0037",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 95
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0053",
+    "enterprise_id": "MOCK_ENTERPRISE_0053",
+    "name": "长春派格汽车塑料技术公司",
+    "location_type": "校外",
+    "established_year": "2024",
+    "major_ids": [
+      "MOCK_MAJOR_0015",
+      "MOCK_MAJOR_0016",
+      "MOCK_MAJOR_0017",
+      "MOCK_MAJOR_0018",
+      "MOCK_MAJOR_0019",
+      "MOCK_MAJOR_0020",
+      "MOCK_MAJOR_0036",
+      "MOCK_MAJOR_0037"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0062",
+      "BASE_7_11_0065",
+      "BASE_7_11_0069",
+      "BASE_7_11_0072",
+      "BASE_7_11_0078",
+      "BASE_7_11_0081",
+      "BASE_7_11_0135",
+      "BASE_7_11_0138"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0062",
+        "major_id": "MOCK_MAJOR_0015",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 32
+      },
+      {
+        "source_id": "BASE_7_11_0065",
+        "major_id": "MOCK_MAJOR_0016",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 30
+      },
+      {
+        "source_id": "BASE_7_11_0069",
+        "major_id": "MOCK_MAJOR_0017",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 39
+      },
+      {
+        "source_id": "BASE_7_11_0072",
+        "major_id": "MOCK_MAJOR_0018",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 71
+      },
+      {
+        "source_id": "BASE_7_11_0078",
+        "major_id": "MOCK_MAJOR_0019",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 137
+      },
+      {
+        "source_id": "BASE_7_11_0081",
+        "major_id": "MOCK_MAJOR_0020",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 38
+      },
+      {
+        "source_id": "BASE_7_11_0135",
+        "major_id": "MOCK_MAJOR_0036",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 140
+      },
+      {
+        "source_id": "BASE_7_11_0138",
+        "major_id": "MOCK_MAJOR_0037",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 95
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0054",
+    "enterprise_id": "MOCK_ENTERPRISE_0054",
+    "name": "长春百事可乐饮料有限公司实习基地",
+    "location_type": "校外",
+    "established_year": "2025",
+    "major_ids": [
+      "MOCK_MAJOR_0016"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0066"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0066",
+        "major_id": "MOCK_MAJOR_0016",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 108
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0055",
+    "enterprise_id": "MOCK_ENTERPRISE_0055",
+    "name": "湖北志锋科技服务有限公司",
+    "location_type": "校外",
+    "established_year": "2024",
+    "major_ids": [
+      "MOCK_MAJOR_0018"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0073"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0073",
+        "major_id": "MOCK_MAJOR_0018",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 150
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0056",
+    "enterprise_id": "MOCK_ENTERPRISE_0056",
+    "name": "吉林省隆华测控股份有限公司",
+    "location_type": "校外",
+    "established_year": "2024",
+    "major_ids": [
+      "MOCK_MAJOR_0018"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0074"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0074",
+        "major_id": "MOCK_MAJOR_0018",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 78
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0057",
+    "enterprise_id": "MOCK_ENTERPRISE_0057",
+    "name": "长春匠人创新创业孵化管理有限公司",
+    "location_type": "校外",
+    "established_year": "2024",
+    "major_ids": [
+      "MOCK_MAJOR_0018"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0075"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0075",
+        "major_id": "MOCK_MAJOR_0018",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 71
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0058",
+    "enterprise_id": "MOCK_ENTERPRISE_0058",
+    "name": "小白智能科技（长春）股份有限公司",
+    "location_type": "校外",
+    "established_year": "2022",
+    "major_ids": [
+      "MOCK_MAJOR_0021",
+      "MOCK_MAJOR_0022",
+      "MOCK_MAJOR_0023",
+      "MOCK_MAJOR_0024"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0082",
+      "BASE_7_11_0083",
+      "BASE_7_11_0084",
+      "BASE_7_11_0085"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0082",
+        "major_id": "MOCK_MAJOR_0021",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 382
+      },
+      {
+        "source_id": "BASE_7_11_0083",
+        "major_id": "MOCK_MAJOR_0022",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 39
+      },
+      {
+        "source_id": "BASE_7_11_0084",
+        "major_id": "MOCK_MAJOR_0023",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 132
+      },
+      {
+        "source_id": "BASE_7_11_0085",
+        "major_id": "MOCK_MAJOR_0024",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 147
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0059",
+    "enterprise_id": "MOCK_ENTERPRISE_0059",
+    "name": "长光卫星科技有限公司",
+    "location_type": "校外",
+    "established_year": "2021",
+    "major_ids": [
+      "MOCK_MAJOR_0021",
+      "MOCK_MAJOR_0025",
+      "MOCK_MAJOR_0022",
+      "MOCK_MAJOR_0023",
+      "MOCK_MAJOR_0024"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0086",
+      "BASE_7_11_0087",
+      "BASE_7_11_0088",
+      "BASE_7_11_0089",
+      "BASE_7_11_0090"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0086",
+        "major_id": "MOCK_MAJOR_0021",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 236
+      },
+      {
+        "source_id": "BASE_7_11_0087",
+        "major_id": "MOCK_MAJOR_0025",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 123
+      },
+      {
+        "source_id": "BASE_7_11_0088",
+        "major_id": "MOCK_MAJOR_0022",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 79
+      },
+      {
+        "source_id": "BASE_7_11_0089",
+        "major_id": "MOCK_MAJOR_0023",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 125
+      },
+      {
+        "source_id": "BASE_7_11_0090",
+        "major_id": "MOCK_MAJOR_0024",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 137
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0060",
+    "enterprise_id": "MOCK_ENTERPRISE_0060",
+    "name": "长春市迪瑞医疗科技股份有限公司",
+    "location_type": "校外",
+    "established_year": "2021",
+    "major_ids": [
+      "MOCK_MAJOR_0021"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0091"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0091",
+        "major_id": "MOCK_MAJOR_0021",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 2
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0061",
+    "enterprise_id": "MOCK_ENTERPRISE_0061",
+    "name": "长春昕桐科技有限公司",
+    "location_type": "校外",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0021"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0092"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0092",
+        "major_id": "MOCK_MAJOR_0021",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 4
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0062",
+    "enterprise_id": "MOCK_ENTERPRISE_0062",
+    "name": "北京波尔通信技术股份有限公司",
+    "location_type": "校外",
+    "established_year": "2021",
+    "major_ids": [
+      "MOCK_MAJOR_0025"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0093"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0093",
+        "major_id": "MOCK_MAJOR_0025",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 1
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0063",
+    "enterprise_id": "MOCK_ENTERPRISE_0063",
+    "name": "东软集团股份有限公司",
+    "location_type": "校外",
+    "established_year": "2021",
+    "major_ids": [
+      "MOCK_MAJOR_0023"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0094"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0094",
+        "major_id": "MOCK_MAJOR_0023",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 3
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0064",
+    "enterprise_id": "MOCK_ENTERPRISE_0064",
+    "name": "吉软数科科技有限公司",
+    "location_type": "校外",
+    "established_year": "2021",
+    "major_ids": [
+      "MOCK_MAJOR_0023"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0095"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0095",
+        "major_id": "MOCK_MAJOR_0023",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 2
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0065",
+    "enterprise_id": "MOCK_ENTERPRISE_0065",
+    "name": "亚信科技（中国）有限公司",
+    "location_type": "校外",
+    "established_year": "2012",
+    "major_ids": [
+      "MOCK_MAJOR_0023"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0096"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0096",
+        "major_id": "MOCK_MAJOR_0023",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 4
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0066",
+    "enterprise_id": "MOCK_ENTERPRISE_0066",
+    "name": "中科软科技股份有限公司",
+    "location_type": "校外",
+    "established_year": "2022",
+    "major_ids": [
+      "MOCK_MAJOR_0023",
+      "MOCK_MAJOR_0021"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0097",
+      "BASE_7_11_0098"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0097",
+        "major_id": "MOCK_MAJOR_0023",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 4
+      },
+      {
+        "source_id": "BASE_7_11_0098",
+        "major_id": "MOCK_MAJOR_0021",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 2
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0067",
+    "enterprise_id": "MOCK_ENTERPRISE_0067",
+    "name": "山东青科教育科技集团有限公司实习基地",
+    "location_type": "校外",
+    "established_year": "2024",
+    "major_ids": [
+      "MOCK_MAJOR_0026"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0099"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0099",
+        "major_id": "MOCK_MAJOR_0026",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 5
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0068",
+    "enterprise_id": "MOCK_ENTERPRISE_0068",
+    "name": "​厦门市顿河教育科技有限公司实习基地",
+    "location_type": "校外",
+    "established_year": "2024",
+    "major_ids": [
+      "MOCK_MAJOR_0026"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0100"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0100",
+        "major_id": "MOCK_MAJOR_0026",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 5
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0069",
+    "enterprise_id": "MOCK_ENTERPRISE_0069",
+    "name": "译国译民集团",
+    "location_type": "校外",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0027",
+      "MOCK_MAJOR_0029"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0101",
+      "BASE_7_11_0106"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0101",
+        "major_id": "MOCK_MAJOR_0027",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 5
+      },
+      {
+        "source_id": "BASE_7_11_0106",
+        "major_id": "MOCK_MAJOR_0029",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 35
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0070",
+    "enterprise_id": "MOCK_ENTERPRISE_0070",
+    "name": "益德穿梭科技（大连）有限公司",
+    "location_type": "校外",
+    "established_year": "2020",
+    "major_ids": [
+      "MOCK_MAJOR_0028"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0102"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0102",
+        "major_id": "MOCK_MAJOR_0028",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 3
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0071",
+    "enterprise_id": "MOCK_ENTERPRISE_0071",
+    "name": "卓联教育科技（大连）有限公司",
+    "location_type": "校外",
+    "established_year": "2021",
+    "major_ids": [
+      "MOCK_MAJOR_0028"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0103"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0103",
+        "major_id": "MOCK_MAJOR_0028",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 2
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0072",
+    "enterprise_id": "MOCK_ENTERPRISE_0072",
+    "name": "中语智汇科技（厦门）有限公司",
+    "location_type": "校外",
+    "established_year": "2022",
+    "major_ids": [
+      "MOCK_MAJOR_0028"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0104"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0104",
+        "major_id": "MOCK_MAJOR_0028",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 3
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0073",
+    "enterprise_id": "MOCK_ENTERPRISE_0073",
+    "name": "长春市吉语翻译有限公司",
+    "location_type": "校外",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0028"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0105"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0105",
+        "major_id": "MOCK_MAJOR_0028",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 3
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0074",
+    "enterprise_id": "MOCK_ENTERPRISE_0074",
+    "name": "吉林省大驰一晶文化传媒有限公司",
+    "location_type": "校外",
+    "established_year": "2024",
+    "major_ids": [
+      "MOCK_MAJOR_0030"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0107"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0107",
+        "major_id": "MOCK_MAJOR_0030",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 55
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0075",
+    "enterprise_id": "MOCK_ENTERPRISE_0075",
+    "name": "吉林省合厚传媒有限公司",
+    "location_type": "校外",
+    "established_year": "2021",
+    "major_ids": [
+      "MOCK_MAJOR_0030"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0108"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0108",
+        "major_id": "MOCK_MAJOR_0030",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 55
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0076",
+    "enterprise_id": "MOCK_ENTERPRISE_0076",
+    "name": "吉林荣发服装服饰有限公司实习基地",
+    "location_type": "校外",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0031"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0109"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0109",
+        "major_id": "MOCK_MAJOR_0031",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 74
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0077",
+    "enterprise_id": "MOCK_ENTERPRISE_0077",
+    "name": "长春圣威雅特服装集团有限公司实习基地",
+    "location_type": "校外",
+    "established_year": "2018",
+    "major_ids": [
+      "MOCK_MAJOR_0031"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0110"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0110",
+        "major_id": "MOCK_MAJOR_0031",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 74
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0078",
+    "enterprise_id": "MOCK_ENTERPRISE_0078",
+    "name": "吉林省服装总公司实习基地",
+    "location_type": "校外",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0031"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0111"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0111",
+        "major_id": "MOCK_MAJOR_0031",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 74
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0079",
+    "enterprise_id": "MOCK_ENTERPRISE_0079",
+    "name": "中邦汇泽园林环境建设有限公司",
+    "location_type": "校外",
+    "established_year": "2021",
+    "major_ids": [
+      "MOCK_MAJOR_0032"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0112"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0112",
+        "major_id": "MOCK_MAJOR_0032",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 73
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0080",
+    "enterprise_id": "MOCK_ENTERPRISE_0080",
+    "name": "吉林省领域创意产业有限公司",
+    "location_type": "校外",
+    "established_year": "2021",
+    "major_ids": [
+      "MOCK_MAJOR_0032"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0113"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0113",
+        "major_id": "MOCK_MAJOR_0032",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 73
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0081",
+    "enterprise_id": "MOCK_ENTERPRISE_0081",
+    "name": "吉林省维川建筑装饰工程有限公司",
+    "location_type": "校外",
+    "established_year": "2024",
+    "major_ids": [
+      "MOCK_MAJOR_0032"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0114"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0114",
+        "major_id": "MOCK_MAJOR_0032",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 73
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0082",
+    "enterprise_id": "MOCK_ENTERPRISE_0082",
+    "name": "吉林省中鸿建筑工程设计有限公司",
+    "location_type": "校外",
+    "established_year": "2024",
+    "major_ids": [
+      "MOCK_MAJOR_0032"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0115"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0115",
+        "major_id": "MOCK_MAJOR_0032",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 73
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0083",
+    "enterprise_id": "MOCK_ENTERPRISE_0083",
+    "name": "吉林省今和建筑装饰工程有限公司",
+    "location_type": "校外",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0032"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0116"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0116",
+        "major_id": "MOCK_MAJOR_0032",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 73
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0084",
+    "enterprise_id": "MOCK_ENTERPRISE_0084",
+    "name": "吉林省新晟装饰设计工程有限公司",
+    "location_type": "校外",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0032"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0117"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0117",
+        "major_id": "MOCK_MAJOR_0032",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 73
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0085",
+    "enterprise_id": "MOCK_ENTERPRISE_0085",
+    "name": "长春市莱迪珂文化传播有限责任公司",
+    "location_type": "校外",
+    "established_year": "2022",
+    "major_ids": [
+      "MOCK_MAJOR_0033"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0118"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0118",
+        "major_id": "MOCK_MAJOR_0033",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 50
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0086",
+    "enterprise_id": "MOCK_ENTERPRISE_0086",
+    "name": "长春艾爱未来文化发展有限公司",
+    "location_type": "校外",
+    "established_year": "2016",
+    "major_ids": [
+      "MOCK_MAJOR_0033"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0119"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0119",
+        "major_id": "MOCK_MAJOR_0033",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 50
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0087",
+    "enterprise_id": "MOCK_ENTERPRISE_0087",
+    "name": "长春柏林机械装备有限公司",
+    "location_type": "校外",
+    "established_year": "2021",
+    "major_ids": [
+      "MOCK_MAJOR_0034"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0120"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0120",
+        "major_id": "MOCK_MAJOR_0034",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 5
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0088",
+    "enterprise_id": "MOCK_ENTERPRISE_0088",
+    "name": "吉林省金佰汇测绘有限公司",
+    "location_type": "校外",
+    "established_year": "2020",
+    "major_ids": [
+      "MOCK_MAJOR_0034"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0121"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0121",
+        "major_id": "MOCK_MAJOR_0034",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 2
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0089",
+    "enterprise_id": "MOCK_ENTERPRISE_0089",
+    "name": "长春市布拉泽医疗科技有限公司",
+    "location_type": "校外",
+    "established_year": "2020",
+    "major_ids": [
+      "MOCK_MAJOR_0034"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0122"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0122",
+        "major_id": "MOCK_MAJOR_0034",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 2
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0090",
+    "enterprise_id": "MOCK_ENTERPRISE_0090",
+    "name": "凯世曼铸造长春有限公司",
+    "location_type": "校外",
+    "established_year": "2020",
+    "major_ids": [
+      "MOCK_MAJOR_0034"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0123"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0123",
+        "major_id": "MOCK_MAJOR_0034",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 20
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0091",
+    "enterprise_id": "MOCK_ENTERPRISE_0091",
+    "name": "中机试验装备股份有限公司",
+    "location_type": "校外",
+    "established_year": "2020",
+    "major_ids": [
+      "MOCK_MAJOR_0034"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0124"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0124",
+        "major_id": "MOCK_MAJOR_0034",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 1
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0092",
+    "enterprise_id": "MOCK_ENTERPRISE_0092",
+    "name": "芜湖经济技术开发区",
+    "location_type": "校外",
+    "established_year": "2019",
+    "major_ids": [
+      "MOCK_MAJOR_0034"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0125"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0125",
+        "major_id": "MOCK_MAJOR_0034",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 25
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0093",
+    "enterprise_id": "MOCK_ENTERPRISE_0093",
+    "name": "长春嘉诚信息技术股份有限公司",
+    "location_type": "校外",
+    "established_year": "2020",
+    "major_ids": [
+      "MOCK_MAJOR_0034"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0126"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0126",
+        "major_id": "MOCK_MAJOR_0034",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 3
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0094",
+    "enterprise_id": "MOCK_ENTERPRISE_0094",
+    "name": "华信永道（北京）科技股份有限公司",
+    "location_type": "校外",
+    "established_year": "2018",
+    "major_ids": [
+      "MOCK_MAJOR_0034"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0127"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0127",
+        "major_id": "MOCK_MAJOR_0034",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 3
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0095",
+    "enterprise_id": "MOCK_ENTERPRISE_0095",
+    "name": "吉林省群启汽车技术有限公司",
+    "location_type": "校外",
+    "established_year": "2024",
+    "major_ids": [
+      "MOCK_MAJOR_0034"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0128"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0128",
+        "major_id": "MOCK_MAJOR_0034",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 10
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0096",
+    "enterprise_id": "MOCK_ENTERPRISE_0096",
+    "name": "数据加长春科技有限公司",
+    "location_type": "校外",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0035"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0129"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0129",
+        "major_id": "MOCK_MAJOR_0035",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 30
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0097",
+    "enterprise_id": "MOCK_ENTERPRISE_0097",
+    "name": "上海筱伊网络科技有限公司",
+    "location_type": "校外",
+    "established_year": "2014",
+    "major_ids": [
+      "MOCK_MAJOR_0035"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0130"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0130",
+        "major_id": "MOCK_MAJOR_0035",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 10
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0098",
+    "enterprise_id": "MOCK_ENTERPRISE_0098",
+    "name": "万控智造股份有限公司",
+    "location_type": "校外",
+    "established_year": "2025",
+    "major_ids": [
+      "MOCK_MAJOR_0034"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0131"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0131",
+        "major_id": "MOCK_MAJOR_0034",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 5
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0099",
+    "enterprise_id": "MOCK_ENTERPRISE_0099",
+    "name": "默飓电气有限公司",
+    "location_type": "校外",
+    "established_year": "2025",
+    "major_ids": [
+      "MOCK_MAJOR_0034"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0132"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0132",
+        "major_id": "MOCK_MAJOR_0034",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 10
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0100",
+    "enterprise_id": "MOCK_ENTERPRISE_0100",
+    "name": "长光卫星技术股份有限公司",
+    "location_type": "校外",
+    "established_year": "2016",
+    "major_ids": [
+      "MOCK_MAJOR_0038",
+      "MOCK_MAJOR_0046",
+      "MOCK_MAJOR_0049",
+      "MOCK_MAJOR_0050"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0139",
+      "BASE_7_11_0199",
+      "BASE_7_11_0211",
+      "BASE_7_11_0217"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0139",
+        "major_id": "MOCK_MAJOR_0038",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 78
+      },
+      {
+        "source_id": "BASE_7_11_0199",
+        "major_id": "MOCK_MAJOR_0046",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 102
+      },
+      {
+        "source_id": "BASE_7_11_0211",
+        "major_id": "MOCK_MAJOR_0049",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 20
+      },
+      {
+        "source_id": "BASE_7_11_0217",
+        "major_id": "MOCK_MAJOR_0050",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 19
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0101",
+    "enterprise_id": "MOCK_ENTERPRISE_0101",
+    "name": "吉林省光电子产业孵化器有限公司",
+    "location_type": "校外",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0038"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0140"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0140",
+        "major_id": "MOCK_MAJOR_0038",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 78
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0102",
+    "enterprise_id": "MOCK_ENTERPRISE_0102",
+    "name": "长春赛博集团股份有限公司",
+    "location_type": "校外",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0038"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0141"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0141",
+        "major_id": "MOCK_MAJOR_0038",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 78
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0103",
+    "enterprise_id": "MOCK_ENTERPRISE_0103",
+    "name": "北京时电科技有限公司",
+    "location_type": "校外",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0038"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0142"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0142",
+        "major_id": "MOCK_MAJOR_0038",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 5
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0104",
+    "enterprise_id": "MOCK_ENTERPRISE_0104",
+    "name": "郑州安图生物工程股份有限公司",
+    "location_type": "校外",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0038"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0143"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0143",
+        "major_id": "MOCK_MAJOR_0038",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 2
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0105",
+    "enterprise_id": "MOCK_ENTERPRISE_0105",
+    "name": "苏州汇川技术有限公司",
+    "location_type": "校外",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0038"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0144"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0144",
+        "major_id": "MOCK_MAJOR_0038",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 2
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0106",
+    "enterprise_id": "MOCK_ENTERPRISE_0106",
+    "name": "长春供电公司西郊220kV变电站实习基地",
+    "location_type": "校外",
+    "established_year": "2010",
+    "major_ids": [
+      "MOCK_MAJOR_0039",
+      "MOCK_MAJOR_0040"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0145",
+      "BASE_7_11_0158"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0145",
+        "major_id": "MOCK_MAJOR_0039",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 135
+      },
+      {
+        "source_id": "BASE_7_11_0158",
+        "major_id": "MOCK_MAJOR_0040",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 147
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0107",
+    "enterprise_id": "MOCK_ENTERPRISE_0107",
+    "name": "长春市合心变电所实习基地",
+    "location_type": "校外",
+    "established_year": "2010",
+    "major_ids": [
+      "MOCK_MAJOR_0039"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0146"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0146",
+        "major_id": "MOCK_MAJOR_0039",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 2
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0108",
+    "enterprise_id": "MOCK_ENTERPRISE_0108",
+    "name": "长春三鼎变压器有限公司实习基地",
+    "location_type": "校外",
+    "established_year": "2015",
+    "major_ids": [
+      "MOCK_MAJOR_0039",
+      "MOCK_MAJOR_0040"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0147",
+      "BASE_7_11_0159"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0147",
+        "major_id": "MOCK_MAJOR_0039",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 135
+      },
+      {
+        "source_id": "BASE_7_11_0159",
+        "major_id": "MOCK_MAJOR_0040",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 147
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0109",
+    "enterprise_id": "MOCK_ENTERPRISE_0109",
+    "name": "吉林瑞铭机电设备有限公司实习基地",
+    "location_type": "校内",
+    "established_year": "2017",
+    "major_ids": [
+      "MOCK_MAJOR_0039"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0148"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0148",
+        "major_id": "MOCK_MAJOR_0039",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 5
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0110",
+    "enterprise_id": "MOCK_ENTERPRISE_0110",
+    "name": "长春关爱电子科技有限公司实习基地",
+    "location_type": "校外",
+    "established_year": "2018",
+    "major_ids": [
+      "MOCK_MAJOR_0039",
+      "MOCK_MAJOR_0040"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0149",
+      "BASE_7_11_0161"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0149",
+        "major_id": "MOCK_MAJOR_0039",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 5
+      },
+      {
+        "source_id": "BASE_7_11_0161",
+        "major_id": "MOCK_MAJOR_0040",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 2
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0111",
+    "enterprise_id": "MOCK_ENTERPRISE_0111",
+    "name": "吉林省恒立电力设计有限责任公司实习基地",
+    "location_type": "校外",
+    "established_year": "2013",
+    "major_ids": [
+      "MOCK_MAJOR_0039",
+      "MOCK_MAJOR_0040"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0150",
+      "BASE_7_11_0162"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0150",
+        "major_id": "MOCK_MAJOR_0039",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 25
+      },
+      {
+        "source_id": "BASE_7_11_0162",
+        "major_id": "MOCK_MAJOR_0040",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 2
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0112",
+    "enterprise_id": "MOCK_ENTERPRISE_0112",
+    "name": "长春信凯机械设备有限公司实习基地",
+    "location_type": "校外",
+    "established_year": "2014",
+    "major_ids": [
+      "MOCK_MAJOR_0039",
+      "MOCK_MAJOR_0040"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0151",
+      "BASE_7_11_0163"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0151",
+        "major_id": "MOCK_MAJOR_0039",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 23
+      },
+      {
+        "source_id": "BASE_7_11_0163",
+        "major_id": "MOCK_MAJOR_0040",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 2
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0113",
+    "enterprise_id": "MOCK_ENTERPRISE_0113",
+    "name": "沈阳华电电站实习基地",
+    "location_type": "校外",
+    "established_year": "2015",
+    "major_ids": [
+      "MOCK_MAJOR_0039",
+      "MOCK_MAJOR_0040"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0152",
+      "BASE_7_11_0164"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0152",
+        "major_id": "MOCK_MAJOR_0039",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 45
+      },
+      {
+        "source_id": "BASE_7_11_0164",
+        "major_id": "MOCK_MAJOR_0040",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 3
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0114",
+    "enterprise_id": "MOCK_ENTERPRISE_0114",
+    "name": "长春市北方特种电线电缆制造有限公司实习基地",
+    "location_type": "校外",
+    "established_year": "2019",
+    "major_ids": [
+      "MOCK_MAJOR_0039",
+      "MOCK_MAJOR_0040"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0153",
+      "BASE_7_11_0165"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0153",
+        "major_id": "MOCK_MAJOR_0039",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 23
+      },
+      {
+        "source_id": "BASE_7_11_0165",
+        "major_id": "MOCK_MAJOR_0040",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 4
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0115",
+    "enterprise_id": "MOCK_ENTERPRISE_0115",
+    "name": "长春市高新东卓汽车电子有限公司",
+    "location_type": "校外",
+    "established_year": "2019",
+    "major_ids": [
+      "MOCK_MAJOR_0039",
+      "MOCK_MAJOR_0040"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0154",
+      "BASE_7_11_0166"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0154",
+        "major_id": "MOCK_MAJOR_0039",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 10
+      },
+      {
+        "source_id": "BASE_7_11_0166",
+        "major_id": "MOCK_MAJOR_0040",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 10
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0116",
+    "enterprise_id": "MOCK_ENTERPRISE_0116",
+    "name": "吉林省博安消防设备有限公司",
+    "location_type": "校外",
+    "established_year": "2020",
+    "major_ids": [
+      "MOCK_MAJOR_0039",
+      "MOCK_MAJOR_0040"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0155",
+      "BASE_7_11_0167"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0155",
+        "major_id": "MOCK_MAJOR_0039",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 15
+      },
+      {
+        "source_id": "BASE_7_11_0167",
+        "major_id": "MOCK_MAJOR_0040",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 10
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0117",
+    "enterprise_id": "MOCK_ENTERPRISE_0117",
+    "name": "吉林省骏天电力工程设计有限公司实习基地",
+    "location_type": "校外",
+    "established_year": "2020",
+    "major_ids": [
+      "MOCK_MAJOR_0039",
+      "MOCK_MAJOR_0040"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0156",
+      "BASE_7_11_0168"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0156",
+        "major_id": "MOCK_MAJOR_0039",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 10
+      },
+      {
+        "source_id": "BASE_7_11_0168",
+        "major_id": "MOCK_MAJOR_0040",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 3
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0118",
+    "enterprise_id": "MOCK_ENTERPRISE_0118",
+    "name": "吉林省金冠电气股份有限公司",
+    "location_type": "校外",
+    "established_year": "2019",
+    "major_ids": [
+      "MOCK_MAJOR_0039"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0157"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0157",
+        "major_id": "MOCK_MAJOR_0039",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 22
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0119",
+    "enterprise_id": "MOCK_ENTERPRISE_0109",
+    "name": "吉林瑞铭机电设备有限公司实习基地",
+    "location_type": "校外",
+    "established_year": "2017",
+    "major_ids": [
+      "MOCK_MAJOR_0040"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0160"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0160",
+        "major_id": "MOCK_MAJOR_0040",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 3
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0120",
+    "enterprise_id": "MOCK_ENTERPRISE_0119",
+    "name": "吉林省金冠电气股份 有限公司",
+    "location_type": "校外",
+    "established_year": "2019",
+    "major_ids": [
+      "MOCK_MAJOR_0040"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0169"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0169",
+        "major_id": "MOCK_MAJOR_0040",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 12
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0121",
+    "enterprise_id": "MOCK_ENTERPRISE_0120",
+    "name": "电气与电子工程学院校内实习基地",
+    "location_type": "校内",
+    "established_year": "2010",
+    "major_ids": [
+      "MOCK_MAJOR_0040"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0170"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0170",
+        "major_id": "MOCK_MAJOR_0040",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 152
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0122",
+    "enterprise_id": "MOCK_ENTERPRISE_0121",
+    "name": "长春工业大学自动化专业校外\n实践教学基地-大陆汽车电子（长春）有限公司",
+    "location_type": "校外",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0041"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0171"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0171",
+        "major_id": "MOCK_MAJOR_0041",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "是",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 20
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0123",
+    "enterprise_id": "MOCK_ENTERPRISE_0122",
+    "name": "自动化卓越工程师联合培养基地-长春大正博凯汽车设备有限公司",
+    "location_type": "校外",
+    "established_year": "2021",
+    "major_ids": [
+      "MOCK_MAJOR_0041"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0172"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0172",
+        "major_id": "MOCK_MAJOR_0041",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 120
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0124",
+    "enterprise_id": "MOCK_ENTERPRISE_0123",
+    "name": "校企合作实习实践就业基地-纬湃汽车电子(长春)有限公司",
+    "location_type": "校外",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0041"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0173"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0173",
+        "major_id": "MOCK_MAJOR_0041",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 3
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0125",
+    "enterprise_id": "MOCK_ENTERPRISE_0124",
+    "name": "校企合作实习基地-蒂森克虏伯富奥汽车转向柱（长春）有限公司",
+    "location_type": "校外",
+    "established_year": "2024",
+    "major_ids": [
+      "MOCK_MAJOR_0041"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0174"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0174",
+        "major_id": "MOCK_MAJOR_0041",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 120
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0126",
+    "enterprise_id": "MOCK_ENTERPRISE_0125",
+    "name": "校企合作实习实践就业基地-吉林省恒创智能装备有限公司",
+    "location_type": "校外",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0041"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0175"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0175",
+        "major_id": "MOCK_MAJOR_0041",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 5
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0127",
+    "enterprise_id": "MOCK_ENTERPRISE_0126",
+    "name": "校企合作实习实践就业基地-长春市吉达自动化系统有限公司",
+    "location_type": "校外",
+    "established_year": "2024",
+    "major_ids": [
+      "MOCK_MAJOR_0041"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0176"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0176",
+        "major_id": "MOCK_MAJOR_0041",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 4
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0128",
+    "enterprise_id": "MOCK_ENTERPRISE_0127",
+    "name": "校企合作-迪瑞班-迪瑞医疗科技股份有限公司",
+    "location_type": "校外",
+    "established_year": "2021",
+    "major_ids": [
+      "MOCK_MAJOR_0041"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0177"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0177",
+        "major_id": "MOCK_MAJOR_0041",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 120
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0129",
+    "enterprise_id": "MOCK_ENTERPRISE_0128",
+    "name": "校企合作-产学研合作基地-长春市吉达自动化系统有限公司",
+    "location_type": "校外",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0041"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0178"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0178",
+        "major_id": "MOCK_MAJOR_0041",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 120
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0130",
+    "enterprise_id": "MOCK_ENTERPRISE_0129",
+    "name": "校企合作参观实践基地-中粮可口可乐饮料（吉林）有限公司",
+    "location_type": "校外",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0041"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0179"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0179",
+        "major_id": "MOCK_MAJOR_0041",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 120
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0131",
+    "enterprise_id": "MOCK_ENTERPRISE_0130",
+    "name": "Credamo见数战略合作实践基地",
+    "location_type": "校外",
+    "established_year": "2025",
+    "major_ids": [
+      "MOCK_MAJOR_0042"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0180"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0180",
+        "major_id": "MOCK_MAJOR_0042",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 93
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0132",
+    "enterprise_id": "MOCK_ENTERPRISE_0131",
+    "name": "合众人寿保险公司专业实践基地",
+    "location_type": "校外",
+    "established_year": "2019",
+    "major_ids": [
+      "MOCK_MAJOR_0043",
+      "MOCK_MAJOR_0044",
+      "MOCK_MAJOR_0047"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0181",
+      "BASE_7_11_0182",
+      "BASE_7_11_0200"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0181",
+        "major_id": "MOCK_MAJOR_0043",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 5
+      },
+      {
+        "source_id": "BASE_7_11_0182",
+        "major_id": "MOCK_MAJOR_0044",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 5
+      },
+      {
+        "source_id": "BASE_7_11_0200",
+        "major_id": "MOCK_MAJOR_0047",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 2
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0133",
+    "enterprise_id": "MOCK_ENTERPRISE_0132",
+    "name": "东北证券公司实习基地",
+    "location_type": "校外",
+    "established_year": "2019",
+    "major_ids": [
+      "MOCK_MAJOR_0043",
+      "MOCK_MAJOR_0044",
+      "MOCK_MAJOR_0047"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0183",
+      "BASE_7_11_0184",
+      "BASE_7_11_0201"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0183",
+        "major_id": "MOCK_MAJOR_0043",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 6
+      },
+      {
+        "source_id": "BASE_7_11_0184",
+        "major_id": "MOCK_MAJOR_0044",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 7
+      },
+      {
+        "source_id": "BASE_7_11_0201",
+        "major_id": "MOCK_MAJOR_0047",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 2
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0134",
+    "enterprise_id": "MOCK_ENTERPRISE_0133",
+    "name": "吉林银行东盛大街支行专业实践基地",
+    "location_type": "校外",
+    "established_year": "2019",
+    "major_ids": [
+      "MOCK_MAJOR_0043",
+      "MOCK_MAJOR_0044",
+      "MOCK_MAJOR_0047"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0185",
+      "BASE_7_11_0186",
+      "BASE_7_11_0202"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0185",
+        "major_id": "MOCK_MAJOR_0043",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 7
+      },
+      {
+        "source_id": "BASE_7_11_0186",
+        "major_id": "MOCK_MAJOR_0044",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 6
+      },
+      {
+        "source_id": "BASE_7_11_0202",
+        "major_id": "MOCK_MAJOR_0047",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 2
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0135",
+    "enterprise_id": "MOCK_ENTERPRISE_0134",
+    "name": "渤海期货公司实习基地",
+    "location_type": "校外",
+    "established_year": "2019",
+    "major_ids": [
+      "MOCK_MAJOR_0043",
+      "MOCK_MAJOR_0044",
+      "MOCK_MAJOR_0047"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0187",
+      "BASE_7_11_0188",
+      "BASE_7_11_0203"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0187",
+        "major_id": "MOCK_MAJOR_0043",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 5
+      },
+      {
+        "source_id": "BASE_7_11_0188",
+        "major_id": "MOCK_MAJOR_0044",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 4
+      },
+      {
+        "source_id": "BASE_7_11_0203",
+        "major_id": "MOCK_MAJOR_0047",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 2
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0136",
+    "enterprise_id": "MOCK_ENTERPRISE_0135",
+    "name": "国泰君安公司实习基地",
+    "location_type": "校外",
+    "established_year": "2019",
+    "major_ids": [
+      "MOCK_MAJOR_0043",
+      "MOCK_MAJOR_0044",
+      "MOCK_MAJOR_0047"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0189",
+      "BASE_7_11_0190",
+      "BASE_7_11_0204"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0189",
+        "major_id": "MOCK_MAJOR_0043",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 7
+      },
+      {
+        "source_id": "BASE_7_11_0190",
+        "major_id": "MOCK_MAJOR_0044",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 7
+      },
+      {
+        "source_id": "BASE_7_11_0204",
+        "major_id": "MOCK_MAJOR_0047",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 2
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0137",
+    "enterprise_id": "MOCK_ENTERPRISE_0136",
+    "name": "北京东奥时代教育科技有限公司长春分公司",
+    "location_type": "校外",
+    "established_year": "2015",
+    "major_ids": [
+      "MOCK_MAJOR_0045"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0191"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0191",
+        "major_id": "MOCK_MAJOR_0045",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 10
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0138",
+    "enterprise_id": "MOCK_ENTERPRISE_0137",
+    "name": "吉林省鸿兴建设集团有限公司实习基地",
+    "location_type": "校外",
+    "established_year": "2018",
+    "major_ids": [
+      "MOCK_MAJOR_0045"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0192"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0192",
+        "major_id": "MOCK_MAJOR_0045",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 3
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0139",
+    "enterprise_id": "MOCK_ENTERPRISE_0138",
+    "name": "长春一汽国际物流有限公司创新创业实践基地",
+    "location_type": "校外",
+    "established_year": "2024",
+    "major_ids": [
+      "MOCK_MAJOR_0046"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0193"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0193",
+        "major_id": "MOCK_MAJOR_0046",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 2
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0140",
+    "enterprise_id": "MOCK_ENTERPRISE_0139",
+    "name": "吉林省鸿兴建设集团有限公司创新创业实践基地",
+    "location_type": "校外",
+    "established_year": "2024",
+    "major_ids": [
+      "MOCK_MAJOR_0046"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0194"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0194",
+        "major_id": "MOCK_MAJOR_0046",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 50
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0141",
+    "enterprise_id": "MOCK_ENTERPRISE_0140",
+    "name": "吉林省富生医疗器械有限公司创新创业实践基地",
+    "location_type": "校外",
+    "established_year": "2024",
+    "major_ids": [
+      "MOCK_MAJOR_0046"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0195"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0195",
+        "major_id": "MOCK_MAJOR_0046",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 3
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0142",
+    "enterprise_id": "MOCK_ENTERPRISE_0141",
+    "name": "吉林省众驰医疗科技有限公司创新创业实践基地",
+    "location_type": "校外",
+    "established_year": "2024",
+    "major_ids": [
+      "MOCK_MAJOR_0046"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0196"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0196",
+        "major_id": "MOCK_MAJOR_0046",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 2
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0143",
+    "enterprise_id": "MOCK_ENTERPRISE_0142",
+    "name": "蓝科医美科学技术（吉林）有限公司创新创业实践基地",
+    "location_type": "校外",
+    "established_year": "2024",
+    "major_ids": [
+      "MOCK_MAJOR_0046"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0197"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0197",
+        "major_id": "MOCK_MAJOR_0046",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 2
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0144",
+    "enterprise_id": "MOCK_ENTERPRISE_0143",
+    "name": "长春启璞科技信息咨询有限公司",
+    "location_type": "校外",
+    "established_year": "2024",
+    "major_ids": [
+      "MOCK_MAJOR_0046",
+      "MOCK_MAJOR_0049",
+      "MOCK_MAJOR_0050"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0198",
+      "BASE_7_11_0210",
+      "BASE_7_11_0216"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0198",
+        "major_id": "MOCK_MAJOR_0046",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 159
+      },
+      {
+        "source_id": "BASE_7_11_0210",
+        "major_id": "MOCK_MAJOR_0049",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 16
+      },
+      {
+        "source_id": "BASE_7_11_0216",
+        "major_id": "MOCK_MAJOR_0050",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 17
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0145",
+    "enterprise_id": "MOCK_ENTERPRISE_0144",
+    "name": "吉林省森祥科技有限公司\n产学研合作基地",
+    "location_type": "校外",
+    "established_year": "2021",
+    "major_ids": [
+      "MOCK_MAJOR_0048"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0205"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0205",
+        "major_id": "MOCK_MAJOR_0048",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 67
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0146",
+    "enterprise_id": "MOCK_ENTERPRISE_0145",
+    "name": "大连贝思信息技术有限公司",
+    "location_type": "校外",
+    "established_year": "2017",
+    "major_ids": [
+      "MOCK_MAJOR_0049"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0206"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0206",
+        "major_id": "MOCK_MAJOR_0049",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 10
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0147",
+    "enterprise_id": "MOCK_ENTERPRISE_0146",
+    "name": "北京康特瑞科统计科技有限责任公司",
+    "location_type": "校外",
+    "established_year": "2018",
+    "major_ids": [
+      "MOCK_MAJOR_0049"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0207"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0207",
+        "major_id": "MOCK_MAJOR_0049",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 11
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0148",
+    "enterprise_id": "MOCK_ENTERPRISE_0147",
+    "name": "长春市机器人学会",
+    "location_type": "校外",
+    "established_year": "2019",
+    "major_ids": [
+      "MOCK_MAJOR_0049"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0208"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0208",
+        "major_id": "MOCK_MAJOR_0049",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 10
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0149",
+    "enterprise_id": "MOCK_ENTERPRISE_0148",
+    "name": "长春天成科技发展有限公司",
+    "location_type": "校外",
+    "established_year": "2021",
+    "major_ids": [
+      "MOCK_MAJOR_0049"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0209"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0209",
+        "major_id": "MOCK_MAJOR_0049",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 12
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0150",
+    "enterprise_id": "MOCK_ENTERPRISE_0149",
+    "name": "北京连星科技有限公司",
+    "location_type": "校外",
+    "established_year": "2019",
+    "major_ids": [
+      "MOCK_MAJOR_0050"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0212"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0212",
+        "major_id": "MOCK_MAJOR_0050",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 10
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0151",
+    "enterprise_id": "MOCK_ENTERPRISE_0150",
+    "name": "吉林省森祥科技有限公司",
+    "location_type": "校外",
+    "established_year": "2021",
+    "major_ids": [
+      "MOCK_MAJOR_0050"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0213"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0213",
+        "major_id": "MOCK_MAJOR_0050",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 11
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0152",
+    "enterprise_id": "MOCK_ENTERPRISE_0151",
+    "name": "吉林省裕林信息科技有限公司",
+    "location_type": "校外",
+    "established_year": "2021",
+    "major_ids": [
+      "MOCK_MAJOR_0050"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0214"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0214",
+        "major_id": "MOCK_MAJOR_0050",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 10
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0153",
+    "enterprise_id": "MOCK_ENTERPRISE_0152",
+    "name": "长春市万易科技有限公司",
+    "location_type": "校外",
+    "established_year": "2021",
+    "major_ids": [
+      "MOCK_MAJOR_0050"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0215"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0215",
+        "major_id": "MOCK_MAJOR_0050",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 11
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0154",
+    "enterprise_id": "MOCK_ENTERPRISE_0153",
+    "name": "吉林灜庆律师事务所",
+    "location_type": "校内",
+    "established_year": "2019",
+    "major_ids": [
+      "MOCK_MAJOR_0004"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0218"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0218",
+        "major_id": "MOCK_MAJOR_0004",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 40
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0155",
+    "enterprise_id": "MOCK_ENTERPRISE_0154",
+    "name": "吉林同信法大律师事务所",
+    "location_type": "校内",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0004"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0219"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0219",
+        "major_id": "MOCK_MAJOR_0004",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 35
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0156",
+    "enterprise_id": "MOCK_ENTERPRISE_0155",
+    "name": "长春市人民检察院",
+    "location_type": "校外",
+    "established_year": "2003",
+    "major_ids": [
+      "MOCK_MAJOR_0004"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0220"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0220",
+        "major_id": "MOCK_MAJOR_0004",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 6
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0157",
+    "enterprise_id": "MOCK_ENTERPRISE_0156",
+    "name": "吉林德勋律师事务所",
+    "location_type": "校外",
+    "established_year": "2019",
+    "major_ids": [
+      "MOCK_MAJOR_0004"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0221"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0221",
+        "major_id": "MOCK_MAJOR_0004",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 8
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0158",
+    "enterprise_id": "MOCK_ENTERPRISE_0157",
+    "name": "长春市二道区人民法院",
+    "location_type": "校外",
+    "established_year": "2019",
+    "major_ids": [
+      "MOCK_MAJOR_0004"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0222"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0222",
+        "major_id": "MOCK_MAJOR_0004",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 6
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0159",
+    "enterprise_id": "MOCK_ENTERPRISE_0158",
+    "name": "长春市新区人民检察院",
+    "location_type": "校外",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0004"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0223"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0223",
+        "major_id": "MOCK_MAJOR_0004",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 13
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0160",
+    "enterprise_id": "MOCK_ENTERPRISE_0159",
+    "name": "长春新区人力资源和社会保障局",
+    "location_type": "校外",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0004"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0224"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0224",
+        "major_id": "MOCK_MAJOR_0004",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 6
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0161",
+    "enterprise_id": "MOCK_ENTERPRISE_0160",
+    "name": "北京炜衡（长春）律师事务所",
+    "location_type": "校外",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0004"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0225"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0225",
+        "major_id": "MOCK_MAJOR_0004",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 10
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0162",
+    "enterprise_id": "MOCK_ENTERPRISE_0161",
+    "name": "广东卓建（长春）律师事务所",
+    "location_type": "校外",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0004"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0226"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0226",
+        "major_id": "MOCK_MAJOR_0004",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 8
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0163",
+    "enterprise_id": "MOCK_ENTERPRISE_0162",
+    "name": "吉林世茂律师事务所",
+    "location_type": "校外",
+    "established_year": "2024",
+    "major_ids": [
+      "MOCK_MAJOR_0004"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0227"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0227",
+        "major_id": "MOCK_MAJOR_0004",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 7
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0164",
+    "enterprise_id": "MOCK_ENTERPRISE_0163",
+    "name": "北京天地君泰（长春）律师事务所",
+    "location_type": "校外",
+    "established_year": "2024",
+    "major_ids": [
+      "MOCK_MAJOR_0004"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0228"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0228",
+        "major_id": "MOCK_MAJOR_0004",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 20
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0165",
+    "enterprise_id": "MOCK_ENTERPRISE_0164",
+    "name": "长春市社会工作者协会",
+    "location_type": "校外",
+    "established_year": "2017",
+    "major_ids": [
+      "MOCK_MAJOR_0051"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0229"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0229",
+        "major_id": "MOCK_MAJOR_0051",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 5
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0166",
+    "enterprise_id": "MOCK_ENTERPRISE_0165",
+    "name": "长春市同盛社会工作服务中心",
+    "location_type": "校外",
+    "established_year": "2015",
+    "major_ids": [
+      "MOCK_MAJOR_0051"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0230"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0230",
+        "major_id": "MOCK_MAJOR_0051",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 20
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0167",
+    "enterprise_id": "MOCK_ENTERPRISE_0166",
+    "name": "长春市高新区北湖街道",
+    "location_type": "校外",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0051"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0231"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0231",
+        "major_id": "MOCK_MAJOR_0051",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 15
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0168",
+    "enterprise_id": "MOCK_ENTERPRISE_0167",
+    "name": "长春市绿园区迎宾街道",
+    "location_type": "校外",
+    "established_year": "2024",
+    "major_ids": [
+      "MOCK_MAJOR_0051"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0232"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0232",
+        "major_id": "MOCK_MAJOR_0051",
+        "is_entrepreneurship": "是",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 12
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0169",
+    "enterprise_id": "MOCK_ENTERPRISE_0168",
+    "name": "长春市新区龙湖社区",
+    "location_type": "校外",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0052"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0233"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0233",
+        "major_id": "MOCK_MAJOR_0052",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 35
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0170",
+    "enterprise_id": "MOCK_ENTERPRISE_0169",
+    "name": "长春市新区北湾社区",
+    "location_type": "校外",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0052"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0234"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0234",
+        "major_id": "MOCK_MAJOR_0052",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 35
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0171",
+    "enterprise_id": "MOCK_ENTERPRISE_0170",
+    "name": "吉林省中麒影视制作有限公司校企合作基地",
+    "location_type": "校外",
+    "established_year": "2002",
+    "major_ids": [
+      "MOCK_MAJOR_0053",
+      "MOCK_MAJOR_0054",
+      "MOCK_MAJOR_0057"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0235",
+      "BASE_7_11_0239",
+      "BASE_7_11_0242"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0235",
+        "major_id": "MOCK_MAJOR_0053",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 150
+      },
+      {
+        "source_id": "BASE_7_11_0239",
+        "major_id": "MOCK_MAJOR_0054",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 70
+      },
+      {
+        "source_id": "BASE_7_11_0242",
+        "major_id": "MOCK_MAJOR_0057",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "是",
+        "annual_student_visits": 63
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0172",
+    "enterprise_id": "MOCK_ENTERPRISE_0171",
+    "name": "吉林智联力丰科技有限公司校企合作基地",
+    "location_type": "校外",
+    "established_year": "2025",
+    "major_ids": [
+      "MOCK_MAJOR_0053"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0236"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0236",
+        "major_id": "MOCK_MAJOR_0053",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 49
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0173",
+    "enterprise_id": "MOCK_ENTERPRISE_0172",
+    "name": "长春盛世互联信息技术有限公司校企合作基地",
+    "location_type": "校外",
+    "established_year": "2025",
+    "major_ids": [
+      "MOCK_MAJOR_0053",
+      "MOCK_MAJOR_0057"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0237",
+      "BASE_7_11_0243"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0237",
+        "major_id": "MOCK_MAJOR_0053",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 49
+      },
+      {
+        "source_id": "BASE_7_11_0243",
+        "major_id": "MOCK_MAJOR_0057",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 63
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0174",
+    "enterprise_id": "MOCK_ENTERPRISE_0173",
+    "name": "长春市声色文化传媒有限公司校企合作基地",
+    "location_type": "校外",
+    "established_year": "2012",
+    "major_ids": [
+      "MOCK_MAJOR_0053"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0238"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0238",
+        "major_id": "MOCK_MAJOR_0053",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 79
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0175",
+    "enterprise_id": "MOCK_ENTERPRISE_0174",
+    "name": "小白智能科技（长春）股份有限公司校企合作基地",
+    "location_type": "校外",
+    "established_year": "2023",
+    "major_ids": [
+      "MOCK_MAJOR_0055",
+      "MOCK_MAJOR_0056"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0240",
+      "BASE_7_11_0241"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0240",
+        "major_id": "MOCK_MAJOR_0055",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 140
+      },
+      {
+        "source_id": "BASE_7_11_0241",
+        "major_id": "MOCK_MAJOR_0056",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 50
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0176",
+    "enterprise_id": "MOCK_ENTERPRISE_0175",
+    "name": "长春智信创联科技有限公司实践基地",
+    "location_type": "校外",
+    "established_year": "2025",
+    "major_ids": [
+      "MOCK_MAJOR_0055"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0244"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0244",
+        "major_id": "MOCK_MAJOR_0055",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 30
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0177",
+    "enterprise_id": "MOCK_ENTERPRISE_0176",
+    "name": "吉林中视元启数字科技有限公司实践基地",
+    "location_type": "校外",
+    "established_year": "2025",
+    "major_ids": [
+      "MOCK_MAJOR_0056"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0245"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0245",
+        "major_id": "MOCK_MAJOR_0056",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 25
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0178",
+    "enterprise_id": "MOCK_ENTERPRISE_0177",
+    "name": "启迪（长春）科技园管理有限公司实践基地",
+    "location_type": "校外",
+    "established_year": "2025",
+    "major_ids": [
+      "MOCK_MAJOR_0055"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0246"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0246",
+        "major_id": "MOCK_MAJOR_0055",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 30
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0179",
+    "enterprise_id": "MOCK_ENTERPRISE_0178",
+    "name": "吉林省知元科技有限公司实践基地",
+    "location_type": "校外",
+    "established_year": "2025",
+    "major_ids": [
+      "MOCK_MAJOR_0054"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0247"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0247",
+        "major_id": "MOCK_MAJOR_0054",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 35
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0180",
+    "enterprise_id": "MOCK_ENTERPRISE_0179",
+    "name": "长春市满天星文化传媒有限公司实践基地",
+    "location_type": "校外",
+    "established_year": "2025",
+    "major_ids": [
+      "MOCK_MAJOR_0053"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0248"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0248",
+        "major_id": "MOCK_MAJOR_0053",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 30
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0181",
+    "enterprise_id": "MOCK_ENTERPRISE_0180",
+    "name": "吉林省头马文化发展有限公司实践基地",
+    "location_type": "校外",
+    "established_year": "2025",
+    "major_ids": [
+      "MOCK_MAJOR_0057"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0249"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0249",
+        "major_id": "MOCK_MAJOR_0057",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 40
+      }
+    ],
+    "is_mock": false
+  },
+  {
+    "id": "MOCK_BASE_0182",
+    "enterprise_id": "MOCK_ENTERPRISE_0181",
+    "name": "吉林省邦源科技有限公司实践基地",
+    "location_type": "校外",
+    "established_year": "2025",
+    "major_ids": [
+      "MOCK_MAJOR_0055"
+    ],
+    "source_record_ids": [
+      "BASE_7_11_0250"
+    ],
+    "source_attributes": [
+      {
+        "source_id": "BASE_7_11_0250",
+        "major_id": "MOCK_MAJOR_0055",
+        "is_entrepreneurship": "否",
+        "is_demonstration": "否",
+        "is_industry_cooperation": "否",
+        "annual_student_visits": 35
+      }
+    ],
+    "is_mock": false
+  }
+]

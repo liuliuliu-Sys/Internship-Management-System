@@ -1,0 +1,511 @@
+{
+  "version": "1.0",
+  "description": "学校实习管理系统原始Excel字段字典",
+  "files": [
+    {
+      "filename": "02-实习监管数据模板 (2026) - 副本.xlsx",
+      "sheets": [
+        {
+          "sheet": "实习数据",
+          "header_row": 1,
+          "max_rows": 3,
+          "max_columns": 33,
+          "fields": [
+            {
+              "column": 1,
+              "source_name": "学号",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 2,
+              "source_name": "学生姓名",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 3,
+              "source_name": "入学年份",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 4,
+              "source_name": "院系",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 5,
+              "source_name": "班级",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 6,
+              "source_name": "课程名称",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 7,
+              "source_name": "课程代码",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 8,
+              "source_name": "学分",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 9,
+              "source_name": "实习类型",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 10,
+              "source_name": "实习组织形式",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 11,
+              "source_name": "实习方式",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 12,
+              "source_name": "学年",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 13,
+              "source_name": "校内指导老师姓名",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 14,
+              "source_name": "实习单位名称",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 15,
+              "source_name": "实习单位统一社会信用代码",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 16,
+              "source_name": "实习地区及代码",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 17,
+              "source_name": "实习详细地址",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 18,
+              "source_name": "是否有实习责任险",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 19,
+              "source_name": "是否有人身意外险",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 20,
+              "source_name": "是否进行实习安全教育和培训",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 21,
+              "source_name": "是否签订实习三方协议",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 22,
+              "source_name": "实习单位获取方式",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 23,
+              "source_name": "实习单位是否有安全应急预案",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 24,
+              "source_name": "实习单位是否为校级及以上实习基地",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 25,
+              "source_name": "实习单位是否为数智赋能实习基地",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 26,
+              "source_name": "实习单位是否为海外实习基地",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 27,
+              "source_name": "实习开始时间",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 28,
+              "source_name": "实习结束时间",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 29,
+              "source_name": "实际实习天数",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 30,
+              "source_name": "实习岗位",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 31,
+              "source_name": "实习报酬（元/月）",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 32,
+              "source_name": "企业指导人员姓名",
+              "data_type": "to_be_confirmed"
+            }
+          ]
+        },
+        {
+          "sheet": "模板说明",
+          "header_row": 1,
+          "max_rows": 33,
+          "max_columns": 3,
+          "fields": [
+            {
+              "column": 1,
+              "source_name": "模板字段名",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 2,
+              "source_name": "填写要求",
+              "data_type": "to_be_confirmed"
+            }
+          ]
+        },
+        {
+          "sheet": "实习地区及代码",
+          "header_row": 0,
+          "max_rows": 3574,
+          "max_columns": 2,
+          "fields": []
+        }
+      ]
+    },
+    {
+      "filename": "03-长春工业大学+暑期高校实习情况汇总表.xlsx",
+      "sheets": [
+        {
+          "sheet": "实习情况总表",
+          "header_row": 4,
+          "max_rows": 18,
+          "max_columns": 14,
+          "fields": [
+            {
+              "column": 1,
+              "source_name": "序号",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 2,
+              "source_name": "学校名称",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 3,
+              "source_name": "暑期实习 学生总人数 (A=A1+A2)",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 4,
+              "source_name": "其中： 校内实习人数 (A1)",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 5,
+              "source_name": "其中： 校外实习人数(A2=B1+B2)",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 6,
+              "source_name": "校外实习中： 集中实习人数 (B1)",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 7,
+              "source_name": "校外实习中： 分散实习人数 (B2)",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 8,
+              "source_name": "校外实习中： 跨省实习人数",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 9,
+              "source_name": "校外实习中： 跨境实习人数",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 10,
+              "source_name": "实习学生保险购买覆盖率",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 11,
+              "source_name": "三方实习协议签订率",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 12,
+              "source_name": "实习前安全教育覆盖率",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 13,
+              "source_name": "是否开展了校外实习安全风险排查",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 14,
+              "source_name": "经排查，是否对存在的安全风险采取防范改进措施（典型措施简述200字以内）",
+              "data_type": "to_be_confirmed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx",
+      "sheets": [
+        {
+          "sheet": "本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）",
+          "header_row": 1,
+          "max_rows": 250,
+          "max_columns": 9,
+          "fields": [
+            {
+              "column": 1,
+              "source_name": "基地名称",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 2,
+              "source_name": "地点",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 3,
+              "source_name": "建立时间",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 4,
+              "source_name": "校内专业代码",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 5,
+              "source_name": "面向校内专业",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 6,
+              "source_name": "是否是创业实习基地",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 7,
+              "source_name": "是否是示范性教育实践基地",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 8,
+              "source_name": "当年接纳学生总数（人次）",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 9,
+              "source_name": "是否与行业企业共建",
+              "data_type": "to_be_confirmed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "【7_12】本科生校内外实习情况（学年）数据.xlsx",
+      "sheets": [
+        {
+          "sheet": "本科生校内外实习情况（学年）",
+          "header_row": 1,
+          "max_rows": 8726,
+          "max_columns": 10,
+          "fields": [
+            {
+              "column": 1,
+              "source_name": "学号",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 2,
+              "source_name": "学生姓名",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 3,
+              "source_name": "实习地点",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 4,
+              "source_name": "实习单位名称",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 5,
+              "source_name": "单位性质",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 6,
+              "source_name": "单位行业",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 7,
+              "source_name": "职别类别",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 8,
+              "source_name": "是否统一组织",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 9,
+              "source_name": "周数",
+              "data_type": "to_be_confirmed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "实习实践基地信息汇总-本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx",
+      "sheets": [
+        {
+          "sheet": "本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）",
+          "header_row": 1,
+          "max_rows": 2,
+          "max_columns": 17,
+          "fields": [
+            {
+              "column": 1,
+              "source_name": "基地名称",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 2,
+              "source_name": "单位性质",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 3,
+              "source_name": "单位行业",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 4,
+              "source_name": "实习单位统一社会信用代码",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 5,
+              "source_name": "实习地区及代码",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 6,
+              "source_name": "单位详细地址",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 7,
+              "source_name": "实习单位是否为校级及以上实习基地",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 8,
+              "source_name": "实习单位是否为数智赋能实习基地",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 9,
+              "source_name": "实习单位是否为海外实习基地",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 10,
+              "source_name": "地点",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 11,
+              "source_name": "建立时间",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 12,
+              "source_name": "有效期至",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 13,
+              "source_name": "校内专业代码",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 14,
+              "source_name": "面向校内专业",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 15,
+              "source_name": "是否是创业实习基地",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 16,
+              "source_name": "是否是示范性教育实践基地",
+              "data_type": "to_be_confirmed"
+            },
+            {
+              "column": 17,
+              "source_name": "是否与行业企业共建",
+              "data_type": "to_be_confirmed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "附件4：普通高等学校学科专业数据资源建设指南(1).xlsx",
+      "sheets": [
+        {
+          "sheet": "Sheet1",
+          "type": "reference_document",
+          "note": "包含7-11、7-12等示例结构，单独作为参考文件"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+[
+  {
+    "id": "MOCK_TEACHER_0001",
+    "name": "模拟教师001",
+    "college_id": 2,
+    "specialty": "金属材料工程",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TEACHER_0002",
+    "name": "模拟教师002",
+    "college_id": 3,
+    "specialty": "材料物理",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TEACHER_0003",
+    "name": "模拟教师003",
+    "college_id": 4,
+    "specialty": "材料成型及控制工程",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TEACHER_0004",
+    "name": "模拟教师004",
+    "college_id": 5,
+    "specialty": "法学",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TEACHER_0005",
+    "name": "模拟教师005",
+    "college_id": 6,
+    "specialty": "高分子材料与工程",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TEACHER_0006",
+    "name": "模拟教师006",
+    "college_id": 7,
+    "specialty": "化学工程与工艺",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TEACHER_0007",
+    "name": "模拟教师007",
+    "college_id": 8,
+    "specialty": "化妆品技术与工程",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TEACHER_0008",
+    "name": "模拟教师008",
+    "college_id": 9,
+    "specialty": "环境工程",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TEACHER_0009",
+    "name": "模拟教师009",
+    "college_id": 10,
+    "specialty": "涂料工程",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TEACHER_0010",
+    "name": "模拟教师010",
+    "college_id": 11,
+    "specialty": "制药工程",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TEACHER_0011",
+    "name": "模拟教师011",
+    "college_id": 12,
+    "specialty": "材料化学",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TEACHER_0012",
+    "name": "模拟教师012",
+    "college_id": 13,
+    "specialty": "化学",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TEACHER_0013",
+    "name": "模拟教师013",
+    "college_id": 14,
+    "specialty": "生物工程",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TEACHER_0014",
+    "name": "模拟教师014",
+    "college_id": 15,
+    "specialty": "食品科学与工程",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TEACHER_0015",
+    "name": "模拟教师015",
+    "college_id": 16,
+    "specialty": "车辆工程",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TEACHER_0016",
+    "name": "模拟教师016",
+    "college_id": 17,
+    "specialty": "工业工程",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TEACHER_0017",
+    "name": "模拟教师017",
+    "college_id": 2,
+    "specialty": "工业设计",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TEACHER_0018",
+    "name": "模拟教师018",
+    "college_id": 3,
+    "specialty": "机械电子工程",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TEACHER_0019",
+    "name": "模拟教师019",
+    "college_id": 4,
+    "specialty": "机械工程",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TEACHER_0020",
+    "name": "模拟教师020",
+    "college_id": 5,
+    "specialty": "智能制造工程",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TEACHER_0021",
+    "name": "模拟教师021",
+    "college_id": 6,
+    "specialty": "计算机科学与技术",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TEACHER_0022",
+    "name": "模拟教师022",
+    "college_id": 7,
+    "specialty": "信息安全",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TEACHER_0023",
+    "name": "模拟教师023",
+    "college_id": 8,
+    "specialty": "软件工程",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TEACHER_0024",
+    "name": "模拟教师024",
+    "college_id": 9,
+    "specialty": "计算机科学与技术（合作办学）",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TEACHER_0025",
+    "name": "模拟教师025",
+    "college_id": 10,
+    "specialty": "电子信息工程",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TEACHER_0026",
+    "name": "模拟教师026",
+    "college_id": 11,
+    "specialty": "俄语",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TEACHER_0027",
+    "name": "模拟教师027",
+    "college_id": 12,
+    "specialty": "翻译",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TEACHER_0028",
+    "name": "模拟教师028",
+    "college_id": 13,
+    "specialty": "日语",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TEACHER_0029",
+    "name": "模拟教师029",
+    "college_id": 14,
+    "specialty": "英语",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TEACHER_0030",
+    "name": "模拟教师030",
+    "college_id": 15,
+    "specialty": "动画",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TEACHER_0031",
+    "name": "模拟教师031",
+    "college_id": 16,
+    "specialty": "服装与服饰设计",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TEACHER_0032",
+    "name": "模拟教师032",
+    "college_id": 17,
+    "specialty": "环境设计",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TEACHER_0033",
+    "name": "模拟教师033",
+    "college_id": 2,
+    "specialty": "视觉传达设计",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TEACHER_0034",
+    "name": "模拟教师034",
+    "college_id": 3,
+    "specialty": "机械工程（2年制专升本）",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TEACHER_0035",
+    "name": "模拟教师035",
+    "college_id": 4,
+    "specialty": "计算机科学与技术（2年制专升本）",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TEACHER_0036",
+    "name": "模拟教师036",
+    "college_id": 5,
+    "specialty": "机械工程（合作办学）",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TEACHER_0037",
+    "name": "模拟教师037",
+    "college_id": 6,
+    "specialty": "工业工程（合作办学）",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TEACHER_0038",
+    "name": "模拟教师038",
+    "college_id": 7,
+    "specialty": "测控技术与仪器",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TEACHER_0039",
+    "name": "模拟教师039",
+    "college_id": 8,
+    "specialty": "电气工程及其自动化",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TEACHER_0040",
+    "name": "模拟教师040",
+    "college_id": 9,
+    "specialty": "电气工程及其自动化（合作办学）",
+    "is_mock": true
+  }
+]

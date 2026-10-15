@@ -1,0 +1,515 @@
+[
+  {
+    "id": "MOCK_MAJOR_0001",
+    "source_major_code": "0201108",
+    "name": "金属材料工程",
+    "college_id": 2,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0002",
+    "source_major_code": "0203008",
+    "name": "材料物理",
+    "college_id": 3,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0003",
+    "source_major_code": "0202108",
+    "name": "材料成型及控制工程",
+    "college_id": 4,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0004",
+    "source_major_code": "0901003",
+    "name": "法学",
+    "college_id": 5,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0005",
+    "source_major_code": "0602108",
+    "name": "高分子材料与工程",
+    "college_id": 6,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0006",
+    "source_major_code": "0601008",
+    "name": "化学工程与工艺",
+    "college_id": 7,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0007",
+    "source_major_code": "0607008",
+    "name": "化妆品技术与工程",
+    "college_id": 8,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0008",
+    "source_major_code": "0604008",
+    "name": "环境工程",
+    "college_id": 9,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0009",
+    "source_major_code": "0606008",
+    "name": "涂料工程",
+    "college_id": 10,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0010",
+    "source_major_code": "0603008",
+    "name": "制药工程",
+    "college_id": 11,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0011",
+    "source_major_code": "0705008",
+    "name": "材料化学",
+    "college_id": 12,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0012",
+    "source_major_code": "0704007",
+    "name": "化学",
+    "college_id": 13,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0013",
+    "source_major_code": "0703008",
+    "name": "生物工程",
+    "college_id": 14,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0014",
+    "source_major_code": "0701008",
+    "name": "食品科学与工程",
+    "college_id": 15,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0015",
+    "source_major_code": "0106008",
+    "name": "车辆工程",
+    "college_id": 16,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0016",
+    "source_major_code": "0104012",
+    "name": "工业工程",
+    "college_id": 17,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0017",
+    "source_major_code": "0103008",
+    "name": "工业设计",
+    "college_id": 2,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0018",
+    "source_major_code": "0105008",
+    "name": "机械电子工程",
+    "college_id": 3,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0019",
+    "source_major_code": "0101108",
+    "name": "机械工程",
+    "college_id": 4,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0020",
+    "source_major_code": "0107008",
+    "name": "智能制造工程",
+    "college_id": 5,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0021",
+    "source_major_code": "0401108",
+    "name": "计算机科学与技术",
+    "college_id": 6,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0022",
+    "source_major_code": "0405308",
+    "name": "信息安全",
+    "college_id": 7,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0023",
+    "source_major_code": "0404108",
+    "name": "软件工程",
+    "college_id": 8,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0024",
+    "source_major_code": "3604008",
+    "name": "计算机科学与技术（合作办学）",
+    "college_id": 9,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0025",
+    "source_major_code": "0402108",
+    "name": "电子信息工程",
+    "college_id": 10,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0026",
+    "source_major_code": "1003005",
+    "name": "俄语",
+    "college_id": 11,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0027",
+    "source_major_code": "1004005",
+    "name": "翻译",
+    "college_id": 12,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0028",
+    "source_major_code": "1002005",
+    "name": "日语",
+    "college_id": 13,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0029",
+    "source_major_code": "1001005",
+    "name": "英语",
+    "college_id": 14,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0030",
+    "source_major_code": "1203013",
+    "name": "动画",
+    "college_id": 15,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0031",
+    "source_major_code": "1204013",
+    "name": "服装与服饰设计",
+    "college_id": 16,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0032",
+    "source_major_code": "1202013",
+    "name": "环境设计",
+    "college_id": 17,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0033",
+    "source_major_code": "1201013",
+    "name": "视觉传达设计",
+    "college_id": 2,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0034",
+    "source_major_code": "2401Z08",
+    "name": "机械工程（2年制专升本）",
+    "college_id": 3,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0035",
+    "source_major_code": "2402Z08",
+    "name": "计算机科学与技术（2年制专升本）",
+    "college_id": 4,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0036",
+    "source_major_code": "3601008",
+    "name": "机械工程（合作办学）",
+    "college_id": 5,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0037",
+    "source_major_code": "3605008",
+    "name": "工业工程（合作办学）",
+    "college_id": 6,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0038",
+    "source_major_code": "0303008",
+    "name": "测控技术与仪器",
+    "college_id": 7,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0039",
+    "source_major_code": "0302108",
+    "name": "电气工程及其自动化",
+    "college_id": 8,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0040",
+    "source_major_code": "3603008",
+    "name": "电气工程及其自动化（合作办学）",
+    "college_id": 9,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0041",
+    "source_major_code": "0301008",
+    "name": "自动化",
+    "college_id": 10,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0042",
+    "source_major_code": "0501012",
+    "name": "工商管理",
+    "college_id": 11,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0043",
+    "source_major_code": "0503002",
+    "name": "国际经济与贸易",
+    "college_id": 12,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0044",
+    "source_major_code": "0507002",
+    "name": "金融学",
+    "college_id": 13,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0045",
+    "source_major_code": "0506012",
+    "name": "会计学",
+    "college_id": 14,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0046",
+    "source_major_code": "000000",
+    "name": "不限定专业",
+    "college_id": 15,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0047",
+    "source_major_code": "0509002",
+    "name": "数字经济",
+    "college_id": 16,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0048",
+    "source_major_code": "0801007",
+    "name": "信息与计算科学",
+    "college_id": 17,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0049",
+    "source_major_code": "0802007",
+    "name": "统计学",
+    "college_id": 2,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0050",
+    "source_major_code": "0803308",
+    "name": "数据科学与大数据技术",
+    "college_id": 3,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0051",
+    "source_major_code": "0902003",
+    "name": "社会工作",
+    "college_id": 4,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0052",
+    "source_major_code": "0907412",
+    "name": "行政管理",
+    "college_id": 5,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0053",
+    "source_major_code": "1401013",
+    "name": "广播电视编导",
+    "college_id": 6,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0054",
+    "source_major_code": "1405005",
+    "name": "广告学",
+    "college_id": 7,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0055",
+    "source_major_code": "1402008",
+    "name": "数字媒体技术",
+    "college_id": 8,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0056",
+    "source_major_code": "1403113",
+    "name": "数字媒体艺术",
+    "college_id": 9,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  },
+  {
+    "id": "MOCK_MAJOR_0057",
+    "source_major_code": "1404005",
+    "name": "网络与新媒体",
+    "college_id": 10,
+    "code_verified": false,
+    "is_mock": true,
+    "source_reference": "【7_11】本科校内外实习、实践、实训基地（时点、学年）（原表 2-4）数据.xlsx"
+  }
+]

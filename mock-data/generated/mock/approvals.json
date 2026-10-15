@@ -1,0 +1,370 @@
+[
+  {
+    "id": "MOCK_APPROVAL_0001",
+    "application_id": "MOCK_APPLICATION_0002",
+    "step": 1,
+    "role_code": "vice_dean_teaching",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0002",
+    "application_id": "MOCK_APPLICATION_0003",
+    "step": 1,
+    "role_code": "vice_dean_teaching",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0003",
+    "application_id": "MOCK_APPLICATION_0003",
+    "step": 2,
+    "role_code": "deputy_secretary",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0004",
+    "application_id": "MOCK_APPLICATION_0004",
+    "step": 1,
+    "role_code": "vice_dean_teaching",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0005",
+    "application_id": "MOCK_APPLICATION_0004",
+    "step": 2,
+    "role_code": "deputy_secretary",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0006",
+    "application_id": "MOCK_APPLICATION_0004",
+    "step": 3,
+    "role_code": "dean",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0007",
+    "application_id": "MOCK_APPLICATION_0005",
+    "step": 1,
+    "role_code": "vice_dean_teaching",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0008",
+    "application_id": "MOCK_APPLICATION_0005",
+    "step": 2,
+    "role_code": "deputy_secretary",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0009",
+    "application_id": "MOCK_APPLICATION_0005",
+    "step": 3,
+    "role_code": "dean",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0010",
+    "application_id": "MOCK_APPLICATION_0005",
+    "step": 4,
+    "role_code": "party_secretary",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0011",
+    "application_id": "MOCK_APPLICATION_0007",
+    "step": 1,
+    "role_code": "vice_dean_teaching",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0012",
+    "application_id": "MOCK_APPLICATION_0008",
+    "step": 1,
+    "role_code": "vice_dean_teaching",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0013",
+    "application_id": "MOCK_APPLICATION_0008",
+    "step": 2,
+    "role_code": "deputy_secretary",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0014",
+    "application_id": "MOCK_APPLICATION_0009",
+    "step": 1,
+    "role_code": "vice_dean_teaching",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0015",
+    "application_id": "MOCK_APPLICATION_0009",
+    "step": 2,
+    "role_code": "deputy_secretary",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0016",
+    "application_id": "MOCK_APPLICATION_0009",
+    "step": 3,
+    "role_code": "dean",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0017",
+    "application_id": "MOCK_APPLICATION_0010",
+    "step": 1,
+    "role_code": "vice_dean_teaching",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0018",
+    "application_id": "MOCK_APPLICATION_0010",
+    "step": 2,
+    "role_code": "deputy_secretary",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0019",
+    "application_id": "MOCK_APPLICATION_0010",
+    "step": 3,
+    "role_code": "dean",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0020",
+    "application_id": "MOCK_APPLICATION_0010",
+    "step": 4,
+    "role_code": "party_secretary",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0021",
+    "application_id": "MOCK_APPLICATION_0012",
+    "step": 1,
+    "role_code": "vice_dean_teaching",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0022",
+    "application_id": "MOCK_APPLICATION_0013",
+    "step": 1,
+    "role_code": "vice_dean_teaching",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0023",
+    "application_id": "MOCK_APPLICATION_0013",
+    "step": 2,
+    "role_code": "deputy_secretary",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0024",
+    "application_id": "MOCK_APPLICATION_0014",
+    "step": 1,
+    "role_code": "vice_dean_teaching",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0025",
+    "application_id": "MOCK_APPLICATION_0014",
+    "step": 2,
+    "role_code": "deputy_secretary",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0026",
+    "application_id": "MOCK_APPLICATION_0014",
+    "step": 3,
+    "role_code": "dean",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0027",
+    "application_id": "MOCK_APPLICATION_0015",
+    "step": 1,
+    "role_code": "vice_dean_teaching",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0028",
+    "application_id": "MOCK_APPLICATION_0015",
+    "step": 2,
+    "role_code": "deputy_secretary",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0029",
+    "application_id": "MOCK_APPLICATION_0015",
+    "step": 3,
+    "role_code": "dean",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0030",
+    "application_id": "MOCK_APPLICATION_0015",
+    "step": 4,
+    "role_code": "party_secretary",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0031",
+    "application_id": "MOCK_APPLICATION_0017",
+    "step": 1,
+    "role_code": "vice_dean_teaching",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0032",
+    "application_id": "MOCK_APPLICATION_0018",
+    "step": 1,
+    "role_code": "vice_dean_teaching",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0033",
+    "application_id": "MOCK_APPLICATION_0018",
+    "step": 2,
+    "role_code": "deputy_secretary",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0034",
+    "application_id": "MOCK_APPLICATION_0019",
+    "step": 1,
+    "role_code": "vice_dean_teaching",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0035",
+    "application_id": "MOCK_APPLICATION_0019",
+    "step": 2,
+    "role_code": "deputy_secretary",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0036",
+    "application_id": "MOCK_APPLICATION_0019",
+    "step": 3,
+    "role_code": "dean",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0037",
+    "application_id": "MOCK_APPLICATION_0020",
+    "step": 1,
+    "role_code": "vice_dean_teaching",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0038",
+    "application_id": "MOCK_APPLICATION_0020",
+    "step": 2,
+    "role_code": "deputy_secretary",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0039",
+    "application_id": "MOCK_APPLICATION_0020",
+    "step": 3,
+    "role_code": "dean",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0040",
+    "application_id": "MOCK_APPLICATION_0020",
+    "step": 4,
+    "role_code": "party_secretary",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0041",
+    "application_id": "MOCK_APPLICATION_0022",
+    "step": 1,
+    "role_code": "vice_dean_teaching",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0042",
+    "application_id": "MOCK_APPLICATION_0023",
+    "step": 1,
+    "role_code": "vice_dean_teaching",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0043",
+    "application_id": "MOCK_APPLICATION_0023",
+    "step": 2,
+    "role_code": "deputy_secretary",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0044",
+    "application_id": "MOCK_APPLICATION_0024",
+    "step": 1,
+    "role_code": "vice_dean_teaching",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0045",
+    "application_id": "MOCK_APPLICATION_0024",
+    "step": 2,
+    "role_code": "deputy_secretary",
+    "result": "approved",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_APPROVAL_0046",
+    "application_id": "MOCK_APPLICATION_0024",
+    "step": 3,
+    "role_code": "dean",
+    "result": "approved",
+    "is_mock": true
+  }
+]

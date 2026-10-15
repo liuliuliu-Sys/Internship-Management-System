@@ -1,0 +1,24 @@
+{
+  "validation": "PASS",
+  "student_identity": "synthetic_only",
+  "mysql_modified": false,
+  "counts": {
+    "majors": 57,
+    "enterprises": 181,
+    "bases": 182,
+    "natural_classes": 16,
+    "students": 320,
+    "teachers": 40,
+    "teaching_classes": 20,
+    "agreements": 35,
+    "insurance": 20,
+    "internship_tasks": 11,
+    "internship_applications": 24,
+    "approvals": 46
+  },
+  "checks": {
+    "student_references": "PASS",
+    "insurance_gate": "PASS",
+    "approval_completion": "PASS"
+  }
+}

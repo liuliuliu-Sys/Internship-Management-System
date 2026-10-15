@@ -1,0 +1,11 @@
+{
+  "source_excel_count": 6,
+  "base_source_rows": 249,
+  "major_reference_count": 57,
+  "internship_source_rows": 8725,
+  "supervision_field_count": 33,
+  "region_code_count": 3574,
+  "summer_summary_field_count": 14,
+  "contains_student_identity_data": false,
+  "mysql_modified": false
+}

@@ -1,0 +1,14 @@
+# ============================================================================
+# 完整依赖入口（核心 + 全部数据库驱动 + 对象存储）
+# 适用于：源码部署、本机开发、以及需要「一个镜像同时支持 mysql/postgres/sqlite」的场景。
+#
+# 想要更小的生产镜像，请按需组合，例如：
+#   MySQL    : -r requirements/base.txt -r requirements/db/mysql.txt -r requirements/storage.txt
+#   Postgres : -r requirements/base.txt -r requirements/db/postgres.txt -r requirements/storage.txt
+#   SQLite   : -r requirements/base.txt -r requirements/db/sqlite.txt
+# ============================================================================
+-r requirements/base.txt
+-r requirements/db/mysql.txt
+-r requirements/db/postgres.txt
+-r requirements/db/sqlite.txt
+-r requirements/storage.txt

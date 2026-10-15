@@ -1,0 +1,245 @@
+# ============================================
+# FastapiAdmin Docker Compose 配置文件
+# ============================================
+# 使用方式:
+#   开发环境: docker compose --env-file .env up -d
+#   生产环境: docker compose --env-file .env -f docker-compose.yaml up -d
+# ============================================
+
+services:
+  # ==================== 数据库服务 ====================
+  mysql:
+    container_name: mysql
+    image: mysql:8.0
+    restart: unless-stopped
+    platform: linux/amd64
+    environment:
+      TZ: "Asia/Shanghai"
+      MYSQL_ROOT_PASSWORD: "${MYSQL_ROOT_PASSWORD:?错误: 请设置 MYSQL_ROOT_PASSWORD 环境变量}"
+      MYSQL_DATABASE: "${MYSQL_DATABASE:-fastapiadmin}"
+      MYSQL_USER: "${MYSQL_USER:-fastapiadmin}"
+      MYSQL_PASSWORD: "${MYSQL_PASSWORD:?错误: 请设置 MYSQL_PASSWORD 环境变量}"
+    ports:
+      - "127.0.0.1:${MYSQL_PORT:-3306}:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+      - /etc/localtime:/etc/localtime:ro
+      # 首次启动时自动执行 init SQL 脚本
+      - ./mysql/init:/docker-entrypoint-initdb.d:ro
+    networks:
+      - app_network
+    healthcheck:
+      test:
+        ["CMD", "mysqladmin", "ping", "-h", "localhost", "-u", "root", "-p${MYSQL_ROOT_PASSWORD}"]
+      interval: 10s
+      timeout: 10s
+      retries: 10
+      start_period: 30s
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+    deploy:
+      resources:
+        limits:
+          memory: 1g
+        reservations:
+          memory: 256m
+
+  # ==================== Redis 服务 ====================
+  redis:
+    container_name: redis
+    image: redis:7-alpine
+    restart: unless-stopped
+    platform: linux/amd64
+    environment:
+      TZ: "Asia/Shanghai"
+    ports:
+      - "127.0.0.1:${REDIS_PORT:-6379}:6379"
+    volumes:
+      - redis_data:/data
+      # 挂载自定义 redis.conf（若存在则覆盖默认配置）
+      - ./redis/conf/redis.conf:/usr/local/etc/redis/redis.conf:ro
+    command: >
+      redis-server /usr/local/etc/redis/redis.conf
+      --requirepass ${REDIS_PASSWORD:?错误: 请设置 REDIS_PASSWORD 环境变量}
+    networks:
+      - app_network
+    healthcheck:
+      test:
+        ["CMD", "redis-cli", "-a", "${REDIS_PASSWORD}", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+    deploy:
+      resources:
+        limits:
+          memory: 512m
+        reservations:
+          memory: 128m
+
+  # ==================== 后端服务 ====================
+  backend:
+    container_name: backend
+    build:
+      context: ../
+      dockerfile: ./docker/backend/Dockerfile
+      args:
+        DEPLOY_ENV: "${DEPLOY_ENV:-prod}"
+    image: "backend:${BACKEND_IMAGE_TAG:-3.0.0}"
+    restart: unless-stopped
+    platform: linux/amd64
+    environment:
+      TZ: "Asia/Shanghai"
+      # 运行环境，对应 backend/env/.env.{dev,prod}
+      ENVIRONMENT: "${DEPLOY_ENV:-prod}"
+      # MySQL 连接配置
+      DATABASE_HOST: "mysql"
+      DATABASE_PORT: "3306"
+      DATABASE_USER: "${MYSQL_USER:-fastapiadmin}"
+      DATABASE_PASSWORD: "${MYSQL_PASSWORD:?错误: 请设置 MYSQL_PASSWORD 环境变量}"
+      DATABASE_NAME: "${MYSQL_DATABASE:-fastapiadmin}"
+      # Redis 连接配置
+      REDIS_HOST: "redis"
+      REDIS_PORT: "6379"
+      REDIS_PASSWORD: "${REDIS_PASSWORD}"
+      REDIS_DB_NAME: "1"
+      REDIS_ENABLE: "true"
+      # 日志级别
+      LOGGER_LEVEL: "${LOGGER_LEVEL:-INFO}"
+      # 信任反向代理（nginx）传来的 X-Forwarded-Proto/For：否则 prod 的
+      # HTTPSRedirectMiddleware 会把 https 请求误判为 http 造成 301 循环。
+      # 只信任应用网络子网（默认 10.255.178.0/24），不要用 "*"——否则客户端可伪造
+      # X-Forwarded-For 绕过登录限流与来源 IP 记录。
+      FORWARDED_ALLOW_IPS: "${FORWARDED_ALLOW_IPS:-10.255.178.0/24}"
+      # 令牌签名密钥与数据加密密钥（必须显式提供，禁止使用源码默认值）
+      SECRET_KEY: "${SECRET_KEY:?错误: 请设置 SECRET_KEY 环境变量（openssl rand -hex 32）}"
+      DATA_ENCRYPTION_KEY: "${DATA_ENCRYPTION_KEY:-}"
+      # 轮换前的旧主密钥（逗号分隔），仅用于解密历史密文
+      DATA_ENCRYPTION_OLD_KEYS: "${DATA_ENCRYPTION_OLD_KEYS:-}"
+      # 生产跨域白名单（逗号分隔）。未配置时应用不再回落通配
+      PROD_CORS_ORIGINS: "${PROD_CORS_ORIGINS:-}"
+      # 演示模式：为 true 时禁止写操作。当前线上为 true，如需可写请设为 false
+      DEMO_ENABLE: "${DEMO_ENABLE:-true}"
+      # Host 头校验范围：false 时 ALLOWED_HOSTS 收敛为仅生产域名（推荐）。
+      # 容器健康检查已改为发送正确 Host，因此这里可以为 false。
+      ALLOW_LOCALHOST_HOSTS: "${ALLOW_LOCALHOST_HOSTS:-true}"
+      # OAuth 回调/换取令牌允许的 Host。
+      # 注意：应用里该字段是 list[str]，pydantic-settings 要求 **JSON 数组**字面量，
+      # 写成逗号分隔字符串会导致启动期 SettingsError（已踩过，服务会起不来）。
+      OAUTH_ALLOWED_HOSTS: '${OAUTH_ALLOWED_HOSTS:-["service.fastapiadmin.com","*.fastapiadmin.com"]}'
+      # 生产未配置 PROD_CORS_ORIGINS 时是否直接启动失败（默认 false：仅告警并按空列表处理）
+      CORS_STRICT_STARTUP: "${CORS_STRICT_STARTUP:-false}"
+      # 定时任务是否允许执行用户提交的代码块（等同 RCE 能力，生产保持 false）
+      SCHEDULER_ALLOW_CODE_EXEC: "${SCHEDULER_ALLOW_CODE_EXEC:-false}"
+    ports:
+      # 仅绑定本机：数据面不对公网开放，容器之间经 app_network 互联
+      - "127.0.0.1:${BACKEND_PORT:-8001}:8001"
+    volumes:
+      # ── 开发热更新（可选）─────────────────────
+      # 取消注释将宿主机代码覆盖容器内代码。生产环境保持注释，
+      # 使用镜像内自带的代码（Dockerfile 已 COPY backend）。
+      # ─────────────────────────────────────────
+      # - ../backend:/home
+      # 本地存储源根目录持久化（种子节点 host=static/upload）：
+      # 必须挂载，否则每次部署重建容器会丢失用户上传的文件
+      - ./backend/static/upload:/home/static/upload
+    depends_on:
+      mysql:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    networks:
+      - app_network
+    # 健康检查必须带正确的 Host 头：应用启用了 TrustedHostMiddleware，
+    # Host 为 localhost 会被判 400；这里用「发正确 Host」而不是「放宽 ALLOWED_HOSTS」，
+    # 避免为了容器自检而降低对外 Host 校验强度。
+    healthcheck:
+      test:
+        [
+          "CMD-SHELL",
+          "python -c 'import urllib.request; req = urllib.request.Request(\"http://localhost:8001/api/v1/monitor/health/check\", headers={\"Host\": \"service.fastapiadmin.com\", \"X-Forwarded-Proto\": \"https\"}); urllib.request.urlopen(req, timeout=5)' || exit 1",
+        ]
+      interval: 15s
+      timeout: 10s
+      retries: 5
+      start_period: 40s
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+    deploy:
+      resources:
+        limits:
+          memory: 1g
+          cpus: "1.0"
+        reservations:
+          memory: 256m
+
+  # ==================== Nginx 服务 ====================
+  nginx:
+    container_name: nginx
+    image: nginx:1.25-alpine
+    restart: unless-stopped
+    platform: linux/amd64
+    environment:
+      TZ: "Asia/Shanghai"
+    ports:
+      - "${HTTP_PORT:-80}:80"
+      - "${HTTPS_PORT:-443}:443"
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./nginx/web:/usr/share/nginx/html/web:ro
+      - ./nginx/ssl:/etc/nginx/ssl:ro
+      - ./nginx/app:/usr/share/nginx/html/app:ro
+      - ./nginx/docs:/usr/share/nginx/html/docs:ro
+    depends_on:
+      backend:
+        condition: service_started
+    networks:
+      - app_network
+    healthcheck:
+      test: ["CMD", "nginx", "-t"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+    deploy:
+      resources:
+        limits:
+          memory: 256m
+          cpus: "0.5"
+        reservations:
+          memory: 64m
+
+# ==================== 持久化卷 ====================
+volumes:
+  mysql_data:
+    driver: local
+    driver_opts:
+      type: none
+      device: ./mysql/data
+      o: bind
+  redis_data:
+    driver: local
+    driver_opts:
+      type: none
+      device: ./redis/data
+      o: bind
+
+# ==================== 网络 ====================
+networks:
+  app_network:
+    driver: bridge

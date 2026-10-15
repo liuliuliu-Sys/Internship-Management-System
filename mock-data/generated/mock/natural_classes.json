@@ -1,0 +1,130 @@
+[
+  {
+    "id": "MOCK_NCLASS_0001",
+    "name": "演示自然班01",
+    "college_id": 2,
+    "major_id": "MOCK_MAJOR_0001",
+    "enrollment_year": 2023,
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_NCLASS_0002",
+    "name": "演示自然班02",
+    "college_id": 3,
+    "major_id": "MOCK_MAJOR_0002",
+    "enrollment_year": 2023,
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_NCLASS_0003",
+    "name": "演示自然班03",
+    "college_id": 4,
+    "major_id": "MOCK_MAJOR_0003",
+    "enrollment_year": 2023,
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_NCLASS_0004",
+    "name": "演示自然班04",
+    "college_id": 5,
+    "major_id": "MOCK_MAJOR_0004",
+    "enrollment_year": 2023,
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_NCLASS_0005",
+    "name": "演示自然班05",
+    "college_id": 6,
+    "major_id": "MOCK_MAJOR_0005",
+    "enrollment_year": 2023,
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_NCLASS_0006",
+    "name": "演示自然班06",
+    "college_id": 7,
+    "major_id": "MOCK_MAJOR_0006",
+    "enrollment_year": 2023,
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_NCLASS_0007",
+    "name": "演示自然班07",
+    "college_id": 8,
+    "major_id": "MOCK_MAJOR_0007",
+    "enrollment_year": 2023,
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_NCLASS_0008",
+    "name": "演示自然班08",
+    "college_id": 9,
+    "major_id": "MOCK_MAJOR_0008",
+    "enrollment_year": 2023,
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_NCLASS_0009",
+    "name": "演示自然班09",
+    "college_id": 10,
+    "major_id": "MOCK_MAJOR_0009",
+    "enrollment_year": 2023,
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_NCLASS_0010",
+    "name": "演示自然班10",
+    "college_id": 11,
+    "major_id": "MOCK_MAJOR_0010",
+    "enrollment_year": 2023,
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_NCLASS_0011",
+    "name": "演示自然班11",
+    "college_id": 12,
+    "major_id": "MOCK_MAJOR_0011",
+    "enrollment_year": 2023,
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_NCLASS_0012",
+    "name": "演示自然班12",
+    "college_id": 13,
+    "major_id": "MOCK_MAJOR_0012",
+    "enrollment_year": 2023,
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_NCLASS_0013",
+    "name": "演示自然班13",
+    "college_id": 14,
+    "major_id": "MOCK_MAJOR_0013",
+    "enrollment_year": 2023,
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_NCLASS_0014",
+    "name": "演示自然班14",
+    "college_id": 15,
+    "major_id": "MOCK_MAJOR_0014",
+    "enrollment_year": 2023,
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_NCLASS_0015",
+    "name": "演示自然班15",
+    "college_id": 16,
+    "major_id": "MOCK_MAJOR_0015",
+    "enrollment_year": 2023,
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_NCLASS_0016",
+    "name": "演示自然班16",
+    "college_id": 17,
+    "major_id": "MOCK_MAJOR_0016",
+    "enrollment_year": 2023,
+    "is_mock": true
+  }
+]

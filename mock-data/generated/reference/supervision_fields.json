@@ -1,0 +1,134 @@
+[
+  {
+    "column_index": 1,
+    "field_name": "学号"
+  },
+  {
+    "column_index": 2,
+    "field_name": "学生姓名"
+  },
+  {
+    "column_index": 3,
+    "field_name": "入学年份"
+  },
+  {
+    "column_index": 4,
+    "field_name": "院系"
+  },
+  {
+    "column_index": 5,
+    "field_name": "班级"
+  },
+  {
+    "column_index": 6,
+    "field_name": "课程名称"
+  },
+  {
+    "column_index": 7,
+    "field_name": "课程代码"
+  },
+  {
+    "column_index": 8,
+    "field_name": "学分"
+  },
+  {
+    "column_index": 9,
+    "field_name": "实习类型"
+  },
+  {
+    "column_index": 10,
+    "field_name": "实习组织形式"
+  },
+  {
+    "column_index": 11,
+    "field_name": "实习方式"
+  },
+  {
+    "column_index": 12,
+    "field_name": "学年"
+  },
+  {
+    "column_index": 13,
+    "field_name": "校内指导老师姓名"
+  },
+  {
+    "column_index": 14,
+    "field_name": "实习单位名称"
+  },
+  {
+    "column_index": 15,
+    "field_name": "实习单位统一社会信用代码"
+  },
+  {
+    "column_index": 16,
+    "field_name": "实习地区及代码"
+  },
+  {
+    "column_index": 17,
+    "field_name": "实习详细地址"
+  },
+  {
+    "column_index": 18,
+    "field_name": "是否有实习责任险"
+  },
+  {
+    "column_index": 19,
+    "field_name": "是否有人身意外险"
+  },
+  {
+    "column_index": 20,
+    "field_name": "是否进行实习安全教育和培训"
+  },
+  {
+    "column_index": 21,
+    "field_name": "是否签订实习三方协议"
+  },
+  {
+    "column_index": 22,
+    "field_name": "实习单位获取方式"
+  },
+  {
+    "column_index": 23,
+    "field_name": "实习单位是否有安全应急预案"
+  },
+  {
+    "column_index": 24,
+    "field_name": "实习单位是否为校级及以上实习基地"
+  },
+  {
+    "column_index": 25,
+    "field_name": "实习单位是否为数智赋能实习基地"
+  },
+  {
+    "column_index": 26,
+    "field_name": "实习单位是否为海外实习基地"
+  },
+  {
+    "column_index": 27,
+    "field_name": "实习开始时间"
+  },
+  {
+    "column_index": 28,
+    "field_name": "实习结束时间"
+  },
+  {
+    "column_index": 29,
+    "field_name": "实际实习天数"
+  },
+  {
+    "column_index": 30,
+    "field_name": "实习岗位"
+  },
+  {
+    "column_index": 31,
+    "field_name": "实习报酬（元/月）"
+  },
+  {
+    "column_index": 32,
+    "field_name": "企业指导人员姓名"
+  },
+  {
+    "column_index": 33,
+    "field_name": ""
+  }
+]

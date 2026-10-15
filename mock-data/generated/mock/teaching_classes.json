@@ -1,0 +1,562 @@
+[
+  {
+    "id": "MOCK_TCLASS_0001",
+    "name": "模拟实习教学班01",
+    "college_id": 2,
+    "major_id": "MOCK_MAJOR_0001",
+    "course_name": "专业实习演示课程01",
+    "course_code": "MOCK_COURSE_0001",
+    "student_ids": [
+      "MOCK_STUDENT_0004",
+      "MOCK_STUDENT_0001",
+      "MOCK_STUDENT_0009",
+      "MOCK_STUDENT_0008",
+      "MOCK_STUDENT_0017",
+      "MOCK_STUDENT_0003",
+      "MOCK_STUDENT_0012",
+      "MOCK_STUDENT_0002",
+      "MOCK_STUDENT_0011",
+      "MOCK_STUDENT_0018",
+      "MOCK_STUDENT_0013",
+      "MOCK_STUDENT_0007"
+    ],
+    "teacher_ids": [
+      "MOCK_TEACHER_0001",
+      "MOCK_TEACHER_0017"
+    ],
+    "status": "created",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TCLASS_0002",
+    "name": "模拟实习教学班02",
+    "college_id": 3,
+    "major_id": "MOCK_MAJOR_0002",
+    "course_name": "专业实习演示课程02",
+    "course_code": "MOCK_COURSE_0002",
+    "student_ids": [
+      "MOCK_STUDENT_0022",
+      "MOCK_STUDENT_0021",
+      "MOCK_STUDENT_0023",
+      "MOCK_STUDENT_0027",
+      "MOCK_STUDENT_0028",
+      "MOCK_STUDENT_0029",
+      "MOCK_STUDENT_0030",
+      "MOCK_STUDENT_0039",
+      "MOCK_STUDENT_0035",
+      "MOCK_STUDENT_0024",
+      "MOCK_STUDENT_0032",
+      "MOCK_STUDENT_0037"
+    ],
+    "teacher_ids": [
+      "MOCK_TEACHER_0002",
+      "MOCK_TEACHER_0018"
+    ],
+    "status": "created",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TCLASS_0003",
+    "name": "模拟实习教学班03",
+    "college_id": 4,
+    "major_id": "MOCK_MAJOR_0003",
+    "course_name": "专业实习演示课程03",
+    "course_code": "MOCK_COURSE_0003",
+    "student_ids": [
+      "MOCK_STUDENT_0048",
+      "MOCK_STUDENT_0055",
+      "MOCK_STUDENT_0049",
+      "MOCK_STUDENT_0041",
+      "MOCK_STUDENT_0046",
+      "MOCK_STUDENT_0052",
+      "MOCK_STUDENT_0047",
+      "MOCK_STUDENT_0056",
+      "MOCK_STUDENT_0045",
+      "MOCK_STUDENT_0043",
+      "MOCK_STUDENT_0044",
+      "MOCK_STUDENT_0053"
+    ],
+    "teacher_ids": [
+      "MOCK_TEACHER_0003",
+      "MOCK_TEACHER_0019"
+    ],
+    "status": "created",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TCLASS_0004",
+    "name": "模拟实习教学班04",
+    "college_id": 5,
+    "major_id": "MOCK_MAJOR_0004",
+    "course_name": "专业实习演示课程04",
+    "course_code": "MOCK_COURSE_0004",
+    "student_ids": [
+      "MOCK_STUDENT_0064",
+      "MOCK_STUDENT_0063",
+      "MOCK_STUDENT_0073",
+      "MOCK_STUDENT_0080",
+      "MOCK_STUDENT_0072",
+      "MOCK_STUDENT_0074",
+      "MOCK_STUDENT_0066",
+      "MOCK_STUDENT_0070",
+      "MOCK_STUDENT_0065",
+      "MOCK_STUDENT_0061",
+      "MOCK_STUDENT_0068",
+      "MOCK_STUDENT_0069"
+    ],
+    "teacher_ids": [
+      "MOCK_TEACHER_0004",
+      "MOCK_TEACHER_0020"
+    ],
+    "status": "created",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TCLASS_0005",
+    "name": "模拟实习教学班05",
+    "college_id": 6,
+    "major_id": "MOCK_MAJOR_0005",
+    "course_name": "专业实习演示课程05",
+    "course_code": "MOCK_COURSE_0005",
+    "student_ids": [
+      "MOCK_STUDENT_0084",
+      "MOCK_STUDENT_0093",
+      "MOCK_STUDENT_0083",
+      "MOCK_STUDENT_0090",
+      "MOCK_STUDENT_0092",
+      "MOCK_STUDENT_0097",
+      "MOCK_STUDENT_0100",
+      "MOCK_STUDENT_0096",
+      "MOCK_STUDENT_0082",
+      "MOCK_STUDENT_0081",
+      "MOCK_STUDENT_0094",
+      "MOCK_STUDENT_0085"
+    ],
+    "teacher_ids": [
+      "MOCK_TEACHER_0005",
+      "MOCK_TEACHER_0021"
+    ],
+    "status": "created",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TCLASS_0006",
+    "name": "模拟实习教学班06",
+    "college_id": 7,
+    "major_id": "MOCK_MAJOR_0006",
+    "course_name": "专业实习演示课程06",
+    "course_code": "MOCK_COURSE_0006",
+    "student_ids": [
+      "MOCK_STUDENT_0103",
+      "MOCK_STUDENT_0108",
+      "MOCK_STUDENT_0104",
+      "MOCK_STUDENT_0113",
+      "MOCK_STUDENT_0109",
+      "MOCK_STUDENT_0119",
+      "MOCK_STUDENT_0111",
+      "MOCK_STUDENT_0106",
+      "MOCK_STUDENT_0120",
+      "MOCK_STUDENT_0117",
+      "MOCK_STUDENT_0114",
+      "MOCK_STUDENT_0118"
+    ],
+    "teacher_ids": [
+      "MOCK_TEACHER_0006",
+      "MOCK_TEACHER_0022"
+    ],
+    "status": "created",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TCLASS_0007",
+    "name": "模拟实习教学班07",
+    "college_id": 8,
+    "major_id": "MOCK_MAJOR_0007",
+    "course_name": "专业实习演示课程07",
+    "course_code": "MOCK_COURSE_0007",
+    "student_ids": [
+      "MOCK_STUDENT_0129",
+      "MOCK_STUDENT_0123",
+      "MOCK_STUDENT_0126",
+      "MOCK_STUDENT_0128",
+      "MOCK_STUDENT_0138",
+      "MOCK_STUDENT_0137",
+      "MOCK_STUDENT_0127",
+      "MOCK_STUDENT_0125",
+      "MOCK_STUDENT_0131",
+      "MOCK_STUDENT_0140",
+      "MOCK_STUDENT_0124",
+      "MOCK_STUDENT_0136"
+    ],
+    "teacher_ids": [
+      "MOCK_TEACHER_0007",
+      "MOCK_TEACHER_0023"
+    ],
+    "status": "created",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TCLASS_0008",
+    "name": "模拟实习教学班08",
+    "college_id": 9,
+    "major_id": "MOCK_MAJOR_0008",
+    "course_name": "专业实习演示课程08",
+    "course_code": "MOCK_COURSE_0008",
+    "student_ids": [
+      "MOCK_STUDENT_0142",
+      "MOCK_STUDENT_0148",
+      "MOCK_STUDENT_0160",
+      "MOCK_STUDENT_0151",
+      "MOCK_STUDENT_0153",
+      "MOCK_STUDENT_0145",
+      "MOCK_STUDENT_0158",
+      "MOCK_STUDENT_0144",
+      "MOCK_STUDENT_0150",
+      "MOCK_STUDENT_0146",
+      "MOCK_STUDENT_0156",
+      "MOCK_STUDENT_0159"
+    ],
+    "teacher_ids": [
+      "MOCK_TEACHER_0008",
+      "MOCK_TEACHER_0024"
+    ],
+    "status": "created",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TCLASS_0009",
+    "name": "模拟实习教学班09",
+    "college_id": 10,
+    "major_id": "MOCK_MAJOR_0009",
+    "course_name": "专业实习演示课程09",
+    "course_code": "MOCK_COURSE_0009",
+    "student_ids": [
+      "MOCK_STUDENT_0173",
+      "MOCK_STUDENT_0175",
+      "MOCK_STUDENT_0165",
+      "MOCK_STUDENT_0169",
+      "MOCK_STUDENT_0178",
+      "MOCK_STUDENT_0164",
+      "MOCK_STUDENT_0172",
+      "MOCK_STUDENT_0177",
+      "MOCK_STUDENT_0180",
+      "MOCK_STUDENT_0176",
+      "MOCK_STUDENT_0170",
+      "MOCK_STUDENT_0167"
+    ],
+    "teacher_ids": [
+      "MOCK_TEACHER_0009",
+      "MOCK_TEACHER_0025"
+    ],
+    "status": "created",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TCLASS_0010",
+    "name": "模拟实习教学班10",
+    "college_id": 11,
+    "major_id": "MOCK_MAJOR_0010",
+    "course_name": "专业实习演示课程10",
+    "course_code": "MOCK_COURSE_0010",
+    "student_ids": [
+      "MOCK_STUDENT_0199",
+      "MOCK_STUDENT_0193",
+      "MOCK_STUDENT_0192",
+      "MOCK_STUDENT_0188",
+      "MOCK_STUDENT_0185",
+      "MOCK_STUDENT_0189",
+      "MOCK_STUDENT_0197",
+      "MOCK_STUDENT_0182",
+      "MOCK_STUDENT_0181",
+      "MOCK_STUDENT_0200",
+      "MOCK_STUDENT_0183",
+      "MOCK_STUDENT_0190"
+    ],
+    "teacher_ids": [
+      "MOCK_TEACHER_0010",
+      "MOCK_TEACHER_0026"
+    ],
+    "status": "created",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TCLASS_0011",
+    "name": "模拟实习教学班11",
+    "college_id": 12,
+    "major_id": "MOCK_MAJOR_0011",
+    "course_name": "专业实习演示课程11",
+    "course_code": "MOCK_COURSE_0011",
+    "student_ids": [
+      "MOCK_STUDENT_0214",
+      "MOCK_STUDENT_0203",
+      "MOCK_STUDENT_0213",
+      "MOCK_STUDENT_0218",
+      "MOCK_STUDENT_0215",
+      "MOCK_STUDENT_0209",
+      "MOCK_STUDENT_0205",
+      "MOCK_STUDENT_0216",
+      "MOCK_STUDENT_0201",
+      "MOCK_STUDENT_0211",
+      "MOCK_STUDENT_0202",
+      "MOCK_STUDENT_0217"
+    ],
+    "teacher_ids": [
+      "MOCK_TEACHER_0011",
+      "MOCK_TEACHER_0027"
+    ],
+    "status": "created",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TCLASS_0012",
+    "name": "模拟实习教学班12",
+    "college_id": 13,
+    "major_id": "MOCK_MAJOR_0012",
+    "course_name": "专业实习演示课程12",
+    "course_code": "MOCK_COURSE_0012",
+    "student_ids": [
+      "MOCK_STUDENT_0229",
+      "MOCK_STUDENT_0231",
+      "MOCK_STUDENT_0224",
+      "MOCK_STUDENT_0230",
+      "MOCK_STUDENT_0234",
+      "MOCK_STUDENT_0223",
+      "MOCK_STUDENT_0228",
+      "MOCK_STUDENT_0221",
+      "MOCK_STUDENT_0232",
+      "MOCK_STUDENT_0225",
+      "MOCK_STUDENT_0240",
+      "MOCK_STUDENT_0235"
+    ],
+    "teacher_ids": [
+      "MOCK_TEACHER_0012",
+      "MOCK_TEACHER_0028"
+    ],
+    "status": "created",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TCLASS_0013",
+    "name": "模拟实习教学班13",
+    "college_id": 14,
+    "major_id": "MOCK_MAJOR_0013",
+    "course_name": "专业实习演示课程13",
+    "course_code": "MOCK_COURSE_0013",
+    "student_ids": [
+      "MOCK_STUDENT_0257",
+      "MOCK_STUDENT_0244",
+      "MOCK_STUDENT_0250",
+      "MOCK_STUDENT_0260",
+      "MOCK_STUDENT_0247",
+      "MOCK_STUDENT_0243",
+      "MOCK_STUDENT_0246",
+      "MOCK_STUDENT_0253",
+      "MOCK_STUDENT_0255",
+      "MOCK_STUDENT_0249",
+      "MOCK_STUDENT_0251",
+      "MOCK_STUDENT_0241"
+    ],
+    "teacher_ids": [
+      "MOCK_TEACHER_0013",
+      "MOCK_TEACHER_0029"
+    ],
+    "status": "created",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TCLASS_0014",
+    "name": "模拟实习教学班14",
+    "college_id": 15,
+    "major_id": "MOCK_MAJOR_0014",
+    "course_name": "专业实习演示课程14",
+    "course_code": "MOCK_COURSE_0014",
+    "student_ids": [
+      "MOCK_STUDENT_0280",
+      "MOCK_STUDENT_0271",
+      "MOCK_STUDENT_0276",
+      "MOCK_STUDENT_0261",
+      "MOCK_STUDENT_0264",
+      "MOCK_STUDENT_0275",
+      "MOCK_STUDENT_0266",
+      "MOCK_STUDENT_0273",
+      "MOCK_STUDENT_0265",
+      "MOCK_STUDENT_0278",
+      "MOCK_STUDENT_0277",
+      "MOCK_STUDENT_0279"
+    ],
+    "teacher_ids": [
+      "MOCK_TEACHER_0014",
+      "MOCK_TEACHER_0030"
+    ],
+    "status": "created",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TCLASS_0015",
+    "name": "模拟实习教学班15",
+    "college_id": 16,
+    "major_id": "MOCK_MAJOR_0015",
+    "course_name": "专业实习演示课程15",
+    "course_code": "MOCK_COURSE_0015",
+    "student_ids": [
+      "MOCK_STUDENT_0299",
+      "MOCK_STUDENT_0283",
+      "MOCK_STUDENT_0300",
+      "MOCK_STUDENT_0296",
+      "MOCK_STUDENT_0298",
+      "MOCK_STUDENT_0293",
+      "MOCK_STUDENT_0289",
+      "MOCK_STUDENT_0295",
+      "MOCK_STUDENT_0297",
+      "MOCK_STUDENT_0292",
+      "MOCK_STUDENT_0288",
+      "MOCK_STUDENT_0294"
+    ],
+    "teacher_ids": [
+      "MOCK_TEACHER_0015",
+      "MOCK_TEACHER_0031"
+    ],
+    "status": "created",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TCLASS_0016",
+    "name": "模拟实习教学班16",
+    "college_id": 17,
+    "major_id": "MOCK_MAJOR_0016",
+    "course_name": "专业实习演示课程16",
+    "course_code": "MOCK_COURSE_0016",
+    "student_ids": [
+      "MOCK_STUDENT_0306",
+      "MOCK_STUDENT_0309",
+      "MOCK_STUDENT_0317",
+      "MOCK_STUDENT_0314",
+      "MOCK_STUDENT_0307",
+      "MOCK_STUDENT_0315",
+      "MOCK_STUDENT_0319",
+      "MOCK_STUDENT_0313",
+      "MOCK_STUDENT_0312",
+      "MOCK_STUDENT_0304",
+      "MOCK_STUDENT_0305",
+      "MOCK_STUDENT_0316"
+    ],
+    "teacher_ids": [
+      "MOCK_TEACHER_0016",
+      "MOCK_TEACHER_0032"
+    ],
+    "status": "created",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TCLASS_0017",
+    "name": "模拟实习教学班17",
+    "college_id": 2,
+    "major_id": "MOCK_MAJOR_0001",
+    "course_name": "专业实习演示课程17",
+    "course_code": "MOCK_COURSE_0017",
+    "student_ids": [
+      "MOCK_STUDENT_0012",
+      "MOCK_STUDENT_0015",
+      "MOCK_STUDENT_0017",
+      "MOCK_STUDENT_0019",
+      "MOCK_STUDENT_0004",
+      "MOCK_STUDENT_0016",
+      "MOCK_STUDENT_0018",
+      "MOCK_STUDENT_0002",
+      "MOCK_STUDENT_0006",
+      "MOCK_STUDENT_0001",
+      "MOCK_STUDENT_0010",
+      "MOCK_STUDENT_0009"
+    ],
+    "teacher_ids": [
+      "MOCK_TEACHER_0001",
+      "MOCK_TEACHER_0017"
+    ],
+    "status": "created",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TCLASS_0018",
+    "name": "模拟实习教学班18",
+    "college_id": 3,
+    "major_id": "MOCK_MAJOR_0002",
+    "course_name": "专业实习演示课程18",
+    "course_code": "MOCK_COURSE_0018",
+    "student_ids": [
+      "MOCK_STUDENT_0028",
+      "MOCK_STUDENT_0039",
+      "MOCK_STUDENT_0040",
+      "MOCK_STUDENT_0021",
+      "MOCK_STUDENT_0023",
+      "MOCK_STUDENT_0032",
+      "MOCK_STUDENT_0031",
+      "MOCK_STUDENT_0037",
+      "MOCK_STUDENT_0024",
+      "MOCK_STUDENT_0022",
+      "MOCK_STUDENT_0033",
+      "MOCK_STUDENT_0026"
+    ],
+    "teacher_ids": [
+      "MOCK_TEACHER_0002",
+      "MOCK_TEACHER_0018"
+    ],
+    "status": "created",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TCLASS_0019",
+    "name": "模拟实习教学班19",
+    "college_id": 4,
+    "major_id": "MOCK_MAJOR_0003",
+    "course_name": "专业实习演示课程19",
+    "course_code": "MOCK_COURSE_0019",
+    "student_ids": [
+      "MOCK_STUDENT_0043",
+      "MOCK_STUDENT_0057",
+      "MOCK_STUDENT_0048",
+      "MOCK_STUDENT_0049",
+      "MOCK_STUDENT_0056",
+      "MOCK_STUDENT_0044",
+      "MOCK_STUDENT_0059",
+      "MOCK_STUDENT_0060",
+      "MOCK_STUDENT_0052",
+      "MOCK_STUDENT_0050",
+      "MOCK_STUDENT_0051",
+      "MOCK_STUDENT_0058"
+    ],
+    "teacher_ids": [
+      "MOCK_TEACHER_0003",
+      "MOCK_TEACHER_0019"
+    ],
+    "status": "created",
+    "is_mock": true
+  },
+  {
+    "id": "MOCK_TCLASS_0020",
+    "name": "模拟实习教学班20",
+    "college_id": 5,
+    "major_id": "MOCK_MAJOR_0004",
+    "course_name": "专业实习演示课程20",
+    "course_code": "MOCK_COURSE_0020",
+    "student_ids": [
+      "MOCK_STUDENT_0068",
+      "MOCK_STUDENT_0076",
+      "MOCK_STUDENT_0074",
+      "MOCK_STUDENT_0067",
+      "MOCK_STUDENT_0064",
+      "MOCK_STUDENT_0062",
+      "MOCK_STUDENT_0071",
+      "MOCK_STUDENT_0077",
+      "MOCK_STUDENT_0066",
+      "MOCK_STUDENT_0073",
+      "MOCK_STUDENT_0078",
+      "MOCK_STUDENT_0080"
+    ],
+    "teacher_ids": [
+      "MOCK_TEACHER_0004",
+      "MOCK_TEACHER_0020"
+    ],
+    "status": "created",
+    "is_mock": true
+  }
+]

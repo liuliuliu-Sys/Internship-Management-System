@@ -1,0 +1,295 @@
+{
+  "source_file": "【7_12】本科生校内外实习情况（学年）数据.xlsx",
+  "source_record_count": 8725,
+  "description": "仅包含业务分类及频次，不包含姓名、学号",
+  "categories": {
+    "internship_location": [
+      {
+        "value": "校外",
+        "count": 6920
+      },
+      {
+        "value": "校内",
+        "count": 1805
+      }
+    ],
+    "organization_type": [
+      {
+        "value": "其他企业",
+        "count": 4999
+      },
+      {
+        "value": "高等教育单位",
+        "count": 1607
+      },
+      {
+        "value": "国有企业",
+        "count": 1189
+      },
+      {
+        "value": "科研设计单位",
+        "count": 563
+      },
+      {
+        "value": "其他",
+        "count": 195
+      },
+      {
+        "value": "机关",
+        "count": 95
+      },
+      {
+        "value": "城镇社区",
+        "count": 39
+      },
+      {
+        "value": "中初教育单位",
+        "count": 22
+      },
+      {
+        "value": "农村建制村",
+        "count": 11
+      },
+      {
+        "value": "其他事业单位",
+        "count": 3
+      },
+      {
+        "value": "医疗卫生单位",
+        "count": 2
+      }
+    ],
+    "industry": [
+      {
+        "value": "制造业",
+        "count": 2847
+      },
+      {
+        "value": "信息传输、软件和信息技术服务业",
+        "count": 1633
+      },
+      {
+        "value": "教育",
+        "count": 1319
+      },
+      {
+        "value": "科学研究和技术服务业",
+        "count": 821
+      },
+      {
+        "value": "文化、体育和娱乐业",
+        "count": 546
+      },
+      {
+        "value": "电力、热力、燃气及水生产和供应业",
+        "count": 533
+      },
+      {
+        "value": "租赁和商务服务业",
+        "count": 205
+      },
+      {
+        "value": "公共管理、社会保障和社会组织",
+        "count": 196
+      },
+      {
+        "value": "卫生和社会工作",
+        "count": 157
+      },
+      {
+        "value": "建筑业",
+        "count": 133
+      },
+      {
+        "value": "批发和零售业",
+        "count": 130
+      },
+      {
+        "value": "农、林、牧、渔业",
+        "count": 47
+      },
+      {
+        "value": "交通运输、仓储和邮政业",
+        "count": 43
+      },
+      {
+        "value": "金融业",
+        "count": 34
+      },
+      {
+        "value": "居民服务、修理和其他服务业",
+        "count": 31
+      },
+      {
+        "value": "房地产业",
+        "count": 22
+      },
+      {
+        "value": "住宿和餐饮业",
+        "count": 20
+      },
+      {
+        "value": "水利、环境和公共设施管理业",
+        "count": 7
+      },
+      {
+        "value": "采矿业",
+        "count": 1
+      }
+    ],
+    "position_category": [
+      {
+        "value": "其他人员",
+        "count": 2740
+      },
+      {
+        "value": "其他专业技术人员",
+        "count": 2663
+      },
+      {
+        "value": "工程技术人员",
+        "count": 1664
+      },
+      {
+        "value": "科学研究人员",
+        "count": 623
+      },
+      {
+        "value": "新闻出版和文化工作人员",
+        "count": 352
+      },
+      {
+        "value": "文学艺术工作人员",
+        "count": 306
+      },
+      {
+        "value": "法律专业人员",
+        "count": 240
+      },
+      {
+        "value": "办事人员和有关人员",
+        "count": 56
+      },
+      {
+        "value": "教学人员",
+        "count": 36
+      },
+      {
+        "value": "经济业务人员",
+        "count": 23
+      },
+      {
+        "value": "商业和服务业人员",
+        "count": 17
+      },
+      {
+        "value": "生产和运输设备操作人员",
+        "count": 5
+      }
+    ],
+    "unified_organization": [
+      {
+        "value": "是",
+        "count": 7077
+      },
+      {
+        "value": "否",
+        "count": 1648
+      }
+    ],
+    "weeks": [
+      {
+        "value": "1",
+        "count": 3417
+      },
+      {
+        "value": "4",
+        "count": 2098
+      },
+      {
+        "value": "2",
+        "count": 1433
+      },
+      {
+        "value": "0.5",
+        "count": 700
+      },
+      {
+        "value": "3",
+        "count": 419
+      },
+      {
+        "value": "8",
+        "count": 368
+      },
+      {
+        "value": "5",
+        "count": 75
+      },
+      {
+        "value": "12",
+        "count": 58
+      },
+      {
+        "value": "10",
+        "count": 56
+      },
+      {
+        "value": "7.5",
+        "count": 42
+      },
+      {
+        "value": "6",
+        "count": 17
+      },
+      {
+        "value": "16",
+        "count": 12
+      },
+      {
+        "value": "9",
+        "count": 9
+      },
+      {
+        "value": "7",
+        "count": 5
+      },
+      {
+        "value": "25",
+        "count": 5
+      },
+      {
+        "value": "21",
+        "count": 2
+      },
+      {
+        "value": "24",
+        "count": 2
+      },
+      {
+        "value": "11",
+        "count": 2
+      },
+      {
+        "value": "15",
+        "count": 1
+      },
+      {
+        "value": "32",
+        "count": 1
+      },
+      {
+        "value": "40",
+        "count": 1
+      },
+      {
+        "value": "20",
+        "count": 1
+      },
+      {
+        "value": "13",
+        "count": 1
+      }
+    ]
+  }
+}
